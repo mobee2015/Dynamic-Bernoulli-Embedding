@@ -1,0 +1,701 @@
+
+
+=====================================
+cyclic, t = 1969
+=====================================
+gmp                  0.0589
+immature             0.0491
+cyclic               0.0490
+dibutyryl            0.0470
+amp                  0.0385
+testosterone         0.0354
+parent               0.0353
+population           0.0311
+prostatic            0.0298
+guanosine            0.0292
+
+=====================================
+cyclic, t = 1970
+=====================================
+gmp                  0.0611
+cyclic               0.0514
+immature             0.0513
+dibutyryl            0.0492
+amp                  0.0400
+testosterone         0.0374
+parent               0.0370
+population           0.0331
+prostatic            0.0321
+aminoacyl            0.0312
+
+=====================================
+cyclic, t = 1971
+=====================================
+gmp                  0.0583
+cyclic               0.0485
+immature             0.0475
+dibutyryl            0.0458
+amp                  0.0385
+parent               0.0343
+testosterone         0.0338
+population           0.0293
+guanosine            0.0284
+prostatic            0.0281
+
+=====================================
+cyclic, t = 1972
+=====================================
+gmp                  0.0583
+cyclic               0.0485
+immature             0.0462
+dibutyryl            0.0449
+amp                  0.0388
+parent               0.0337
+testosterone         0.0327
+guanosine            0.0285
+population           0.0279
+prostatic            0.0269
+
+=====================================
+cyclic, t = 1973
+=====================================
+gmp                  0.0561
+cyclic               0.0468
+immature             0.0431
+dibutyryl            0.0424
+amp                  0.0381
+parent               0.0314
+testosterone         0.0297
+guanosine            0.0264
+population           0.0247
+aminoacyl            0.0245
+
+=====================================
+cyclic, t = 1974
+=====================================
+gmp                  0.0545
+cyclic               0.0456
+immature             0.0404
+dibutyryl            0.0403
+amp                  0.0376
+parent               0.0295
+testosterone         0.0272
+guanosine            0.0248
+lipolysis            0.0228
+aminoacyl            0.0226
+
+=====================================
+cyclic, t = 1975
+=====================================
+gmp                  0.0533
+cyclic               0.0447
+dibutyryl            0.0386
+immature             0.0381
+amp                  0.0375
+parent               0.0280
+testosterone         0.0252
+guanosine            0.0236
+lipolysis            0.0216
+aminoacyl            0.0210
+
+=====================================
+cyclic, t = 1976
+=====================================
+gmp                  0.0523
+cyclic               0.0440
+amp                  0.0375
+dibutyryl            0.0371
+immature             0.0360
+parent               0.0268
+testosterone         0.0234
+guanosine            0.0227
+lipolysis            0.0206
+aminoacyl            0.0195
+
+=====================================
+cyclic, t = 1977
+=====================================
+gmp                  0.0517
+cyclic               0.0435
+amp                  0.0377
+dibutyryl            0.0361
+immature             0.0343
+parent               0.0259
+guanosine            0.0221
+testosterone         0.0221
+lipolysis            0.0199
+aminoacyl            0.0185
+
+=====================================
+cyclic, t = 1978
+=====================================
+gmp                  0.0511
+cyclic               0.0429
+amp                  0.0377
+dibutyryl            0.0349
+immature             0.0326
+parent               0.0249
+guanosine            0.0215
+testosterone         0.0208
+lipolysis            0.0192
+aminoacyl            0.0174
+
+=====================================
+cyclic, t = 1979
+=====================================
+gmp                  0.0503
+cyclic               0.0422
+amp                  0.0376
+dibutyryl            0.0336
+immature             0.0307
+parent               0.0237
+guanosine            0.0207
+testosterone         0.0192
+lipolysis            0.0183
+aminoacyl            0.0160
+
+=====================================
+cyclic, t = 1980
+=====================================
+gmp                  0.0491
+cyclic               0.0410
+amp                  0.0371
+dibutyryl            0.0321
+immature             0.0284
+parent               0.0223
+guanosine            0.0195
+testosterone         0.0173
+lipolysis            0.0171
+aminoacyl            0.0145
+
+=====================================
+cyclic, t = 1981
+=====================================
+gmp                  0.0478
+cyclic               0.0399
+amp                  0.0365
+dibutyryl            0.0305
+immature             0.0264
+parent               0.0208
+guanosine            0.0184
+lipolysis            0.0159
+testosterone         0.0157
+aminoacyl            0.0130
+
+=====================================
+cyclic, t = 1982
+=====================================
+gmp                  0.0460
+cyclic               0.0384
+amp                  0.0355
+dibutyryl            0.0287
+immature             0.0239
+parent               0.0190
+guanosine            0.0168
+lipolysis            0.0140
+testosterone         0.0136
+aminoacyl            0.0110
+
+=====================================
+cyclic, t = 1983
+=====================================
+gmp                  0.0432
+cyclic               0.0361
+amp                  0.0335
+dibutyryl            0.0262
+immature             0.0208
+parent               0.0165
+guanosine            0.0143
+lipolysis            0.0112
+testosterone         0.0110
+exogenously          0.0085
+
+=====================================
+cyclic, t = 1984
+=====================================
+gmp                  0.0407
+cyclic               0.0339
+amp                  0.0318
+dibutyryl            0.0239
+immature             0.0182
+parent               0.0144
+guanosine            0.0121
+lipolysis            0.0090
+testosterone         0.0086
+exogenously          0.0069
+
+=====================================
+cyclic, t = 1985
+=====================================
+gmp                  0.0385
+cyclic               0.0320
+amp                  0.0302
+dibutyryl            0.0218
+immature             0.0157
+parent               0.0124
+guanosine            0.0100
+lipolysis            0.0069
+testosterone         0.0062
+exogenously          0.0053
+
+=====================================
+cyclic, t = 1986
+=====================================
+gmp                  0.0370
+cyclic               0.0308
+amp                  0.0292
+dibutyryl            0.0203
+immature             0.0140
+parent               0.0109
+guanosine            0.0088
+lipolysis            0.0058
+testosterone         0.0044
+exogenously          0.0043
+
+=====================================
+cyclic, t = 1987
+=====================================
+gmp                  0.0355
+cyclic               0.0294
+amp                  0.0283
+dibutyryl            0.0189
+immature             0.0124
+parent               0.0094
+guanosine            0.0074
+lipolysis            0.0047
+exogenously          0.0033
+testosterone         0.0026
+
+=====================================
+cyclic, t = 1988
+=====================================
+gmp                  0.0331
+cyclic               0.0275
+amp                  0.0266
+dibutyryl            0.0169
+immature             0.0101
+parent               0.0075
+guanosine            0.0052
+lipolysis            0.0027
+exogenously          0.0016
+glucagon             0.0008
+
+=====================================
+cyclic, t = 1989
+=====================================
+gmp                  0.0307
+cyclic               0.0255
+amp                  0.0249
+dibutyryl            0.0149
+immature             0.0077
+parent               0.0055
+guanosine            0.0029
+lipolysis            0.0004
+exogenously          -0.0002
+glucagon             -0.0006
+
+=====================================
+cyclic, t = 1990
+=====================================
+gmp                  0.0283
+cyclic               0.0235
+amp                  0.0232
+dibutyryl            0.0129
+immature             0.0054
+parent               0.0035
+guanosine            0.0006
+lipolysis            -0.0018
+exogenously          -0.0019
+glucagon             -0.0020
+
+=====================================
+cyclic, t = 1991
+=====================================
+gmp                  0.0260
+cyclic               0.0216
+amp                  0.0216
+dibutyryl            0.0110
+immature             0.0031
+parent               0.0016
+guanosine            -0.0016
+glucagon             -0.0034
+exogenously          -0.0037
+lipolysis            -0.0039
+
+=====================================
+cyclic, t = 1992
+=====================================
+gmp                  0.0237
+amp                  0.0200
+cyclic               0.0198
+dibutyryl            0.0091
+immature             0.0009
+parent               -0.0003
+guanosine            -0.0038
+glucagon             -0.0047
+exogenously          -0.0054
+lipolysis            -0.0060
+
+=====================================
+cyclic, t = 1993
+=====================================
+gmp                  0.0216
+amp                  0.0188
+cyclic               0.0182
+dibutyryl            0.0073
+immature             -0.0012
+parent               -0.0021
+glucagon             -0.0056
+guanosine            -0.0057
+exogenously          -0.0068
+enzyme               -0.0070
+
+=====================================
+cyclic, t = 1994
+=====================================
+gmp                  0.0198
+amp                  0.0178
+cyclic               0.0169
+dibutyryl            0.0056
+immature             -0.0030
+parent               -0.0036
+glucagon             -0.0062
+guanosine            -0.0072
+enzyme               -0.0074
+exogenously          -0.0079
+
+=====================================
+cyclic, t = 1995
+=====================================
+gmp                  0.0183
+amp                  0.0172
+cyclic               0.0158
+dibutyryl            0.0042
+immature             -0.0045
+parent               -0.0049
+glucagon             -0.0064
+enzyme               -0.0077
+guanosine            -0.0083
+dephosphorylated     -0.0086
+
+=====================================
+cyclic, t = 1996
+=====================================
+gmp                  0.0175
+amp                  0.0172
+cyclic               0.0153
+dibutyryl            0.0031
+immature             -0.0057
+parent               -0.0057
+glucagon             -0.0060
+enzyme               -0.0074
+dephosphorylated     -0.0085
+exogenously          -0.0087
+
+=====================================
+cyclic, t = 1997
+=====================================
+amp                  0.0168
+gmp                  0.0164
+cyclic               0.0147
+dibutyryl            0.0021
+glucagon             -0.0060
+immature             -0.0067
+parent               -0.0068
+enzyme               -0.0078
+dephosphorylated     -0.0085
+exogenously          -0.0095
+
+=====================================
+cyclic, t = 1998
+=====================================
+amp                  0.0177
+gmp                  0.0165
+cyclic               0.0151
+dibutyryl            0.0017
+glucagon             -0.0046
+enzyme               -0.0063
+parent               -0.0066
+immature             -0.0070
+dephosphorylated     -0.0077
+exogenously          -0.0082
+
+=====================================
+cyclic, t = 1999
+=====================================
+amp                  0.0178
+gmp                  0.0160
+cyclic               0.0149
+dibutyryl            0.0010
+glucagon             -0.0041
+enzyme               -0.0059
+parent               -0.0072
+dephosphorylated     -0.0076
+immature             -0.0076
+exogenously          -0.0082
+
+=====================================
+cyclic, t = 2000
+=====================================
+amp                  0.0178
+gmp                  0.0153
+cyclic               0.0146
+dibutyryl            0.0003
+glucagon             -0.0038
+enzyme               -0.0057
+dephosphorylated     -0.0075
+parent               -0.0079
+e                    -0.0081
+exogenously          -0.0082
+
+=====================================
+cyclic, t = 2001
+=====================================
+amp                  0.0165
+gmp                  0.0139
+cyclic               0.0135
+dibutyryl            -0.0009
+glucagon             -0.0051
+enzyme               -0.0064
+dephosphorylated     -0.0089
+parent               -0.0090
+immature             -0.0095
+e                    -0.0096
+
+=====================================
+cyclic, t = 2002
+=====================================
+amp                  0.0150
+gmp                  0.0125
+cyclic               0.0122
+dibutyryl            -0.0020
+glucagon             -0.0066
+enzyme               -0.0073
+parent               -0.0101
+dephosphorylated     -0.0104
+immature             -0.0107
+e                    -0.0113
+
+=====================================
+cyclic, t = 2003
+=====================================
+amp                  0.0130
+gmp                  0.0105
+cyclic               0.0104
+dibutyryl            -0.0035
+glucagon             -0.0088
+enzyme               -0.0089
+parent               -0.0118
+dephosphorylated     -0.0123
+immature             -0.0123
+guanosine            -0.0135
+
+=====================================
+cyclic, t = 2004
+=====================================
+amp                  0.0112
+cyclic               0.0087
+gmp                  0.0085
+dibutyryl            -0.0049
+enzyme               -0.0105
+glucagon             -0.0109
+parent               -0.0134
+immature             -0.0139
+dephosphorylated     -0.0140
+guanosine            -0.0156
+
+=====================================
+cyclic, t = 2005
+=====================================
+amp                  0.0098
+cyclic               0.0072
+gmp                  0.0069
+dibutyryl            -0.0060
+enzyme               -0.0119
+glucagon             -0.0125
+parent               -0.0147
+immature             -0.0153
+dephosphorylated     -0.0154
+dehydrogenase        -0.0170
+
+=====================================
+cyclic, t = 2006
+=====================================
+amp                  0.0084
+cyclic               0.0059
+gmp                  0.0053
+dibutyryl            -0.0071
+enzyme               -0.0132
+glucagon             -0.0140
+parent               -0.0159
+dephosphorylated     -0.0167
+immature             -0.0167
+dehydrogenase        -0.0179
+
+=====================================
+cyclic, t = 2007
+=====================================
+amp                  0.0071
+cyclic               0.0046
+gmp                  0.0038
+dibutyryl            -0.0081
+enzyme               -0.0144
+glucagon             -0.0153
+parent               -0.0170
+dephosphorylated     -0.0178
+immature             -0.0180
+dehydrogenase        -0.0187
+
+=====================================
+cyclic, t = 2008
+=====================================
+amp                  0.0059
+cyclic               0.0034
+gmp                  0.0024
+dibutyryl            -0.0092
+enzyme               -0.0155
+glucagon             -0.0166
+parent               -0.0181
+dephosphorylated     -0.0189
+immature             -0.0193
+dehydrogenase        -0.0195
+
+=====================================
+cyclic, t = 2009
+=====================================
+amp                  0.0048
+cyclic               0.0022
+gmp                  0.0011
+dibutyryl            -0.0102
+enzyme               -0.0166
+glucagon             -0.0177
+parent               -0.0191
+dephosphorylated     -0.0200
+kinase               -0.0203
+dehydrogenase        -0.0203
+
+=====================================
+cyclic, t = 2010
+=====================================
+amp                  0.0037
+cyclic               0.0012
+gmp                  -0.0002
+dibutyryl            -0.0112
+enzyme               -0.0176
+glucagon             -0.0188
+parent               -0.0202
+kinase               -0.0209
+dephosphorylated     -0.0210
+dehydrogenase        -0.0211
+
+=====================================
+cyclic, t = 2011
+=====================================
+amp                  0.0028
+cyclic               0.0003
+gmp                  -0.0013
+dibutyryl            -0.0119
+enzyme               -0.0184
+glucagon             -0.0196
+parent               -0.0210
+kinase               -0.0214
+dehydrogenase        -0.0217
+dephosphorylated     -0.0218
+
+=====================================
+cyclic, t = 2012
+=====================================
+amp                  0.0019
+cyclic               -0.0005
+gmp                  -0.0023
+dibutyryl            -0.0127
+enzyme               -0.0191
+glucagon             -0.0204
+parent               -0.0219
+kinase               -0.0219
+dehydrogenase        -0.0223
+dephosphorylated     -0.0226
+
+=====================================
+cyclic, t = 2013
+=====================================
+amp                  0.0015
+cyclic               -0.0009
+gmp                  -0.0028
+dibutyryl            -0.0133
+enzyme               -0.0196
+glucagon             -0.0208
+kinase               -0.0221
+parent               -0.0224
+dehydrogenase        -0.0225
+dephosphorylated     -0.0229
+
+=====================================
+cyclic, t = 2014
+=====================================
+amp                  0.0012
+cyclic               -0.0012
+gmp                  -0.0032
+dibutyryl            -0.0136
+enzyme               -0.0199
+glucagon             -0.0210
+kinase               -0.0222
+parent               -0.0227
+dehydrogenase        -0.0228
+dephosphorylated     -0.0232
+
+=====================================
+cyclic, t = 2015
+=====================================
+amp                  0.0006
+cyclic               -0.0017
+gmp                  -0.0037
+dibutyryl            -0.0141
+enzyme               -0.0203
+glucagon             -0.0215
+kinase               -0.0224
+dehydrogenase        -0.0232
+parent               -0.0232
+dephosphorylated     -0.0237
+
+=====================================
+cyclic, t = 2016
+=====================================
+amp                  0.0003
+cyclic               -0.0020
+gmp                  -0.0041
+dibutyryl            -0.0145
+enzyme               -0.0206
+glucagon             -0.0218
+kinase               -0.0225
+dehydrogenase        -0.0235
+parent               -0.0236
+dephosphorylated     -0.0239
+
+=====================================
+cyclic, t = 2017
+=====================================
+amp                  0.0001
+cyclic               -0.0022
+gmp                  -0.0045
+dibutyryl            -0.0148
+enzyme               -0.0208
+glucagon             -0.0221
+kinase               -0.0225
+dehydrogenase        -0.0238
+dephosphorylated     -0.0239
+parent               -0.0240
+
+=====================================
+cyclic, t = 2018
+=====================================
+amp                  -0.0003
+cyclic               -0.0026
+gmp                  -0.0049
+dibutyryl            -0.0152
+enzyme               -0.0211
+glucagon             -0.0226
+kinase               -0.0228
+dehydrogenase        -0.0241
+dephosphorylated     -0.0243
+parent               -0.0245

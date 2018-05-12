@@ -1,0 +1,701 @@
+
+
+=====================================
+diphosphate, t = 1969
+=====================================
+app                  0.0445
+diphosphate          0.0435
+optima               0.0390
+maximal              0.0378
+fructose             0.0354
+kinetic              0.0328
+giving               0.0323
+exhibits             0.0313
+km                   0.0280
+carboxylase          0.0270
+
+=====================================
+diphosphate, t = 1970
+=====================================
+app                  0.0424
+diphosphate          0.0417
+maximal              0.0362
+optima               0.0353
+fructose             0.0339
+kinetic              0.0311
+giving               0.0300
+exhibits             0.0280
+km                   0.0270
+carboxylase          0.0266
+
+=====================================
+diphosphate, t = 1971
+=====================================
+app                  0.0427
+diphosphate          0.0426
+maximal              0.0378
+fructose             0.0343
+optima               0.0335
+kinetic              0.0320
+carboxylase          0.0303
+giving               0.0302
+km                   0.0284
+pep                  0.0262
+
+=====================================
+diphosphate, t = 1972
+=====================================
+app                  0.0405
+diphosphate          0.0397
+maximal              0.0341
+fructose             0.0320
+optima               0.0305
+kinetic              0.0298
+giving               0.0276
+carboxylase          0.0260
+km                   0.0260
+pep                  0.0246
+
+=====================================
+diphosphate, t = 1973
+=====================================
+app                  0.0389
+diphosphate          0.0373
+maximal              0.0309
+fructose             0.0298
+kinetic              0.0282
+optima               0.0282
+giving               0.0251
+km                   0.0243
+carboxylase          0.0235
+pep                  0.0233
+
+=====================================
+diphosphate, t = 1974
+=====================================
+app                  0.0421
+diphosphate          0.0397
+maximal              0.0324
+kinetic              0.0317
+fructose             0.0301
+optima               0.0298
+giving               0.0271
+km                   0.0265
+pep                  0.0256
+glycerol             0.0246
+
+=====================================
+diphosphate, t = 1975
+=====================================
+app                  0.0375
+diphosphate          0.0359
+maximal              0.0295
+fructose             0.0284
+kinetic              0.0279
+optima               0.0257
+pep                  0.0242
+km                   0.0240
+giving               0.0234
+carboxylase          0.0229
+
+=====================================
+diphosphate, t = 1976
+=====================================
+app                  0.0381
+diphosphate          0.0365
+maximal              0.0307
+fructose             0.0294
+kinetic              0.0289
+pep                  0.0262
+optima               0.0259
+km                   0.0254
+giving               0.0243
+carboxylase          0.0241
+
+=====================================
+diphosphate, t = 1977
+=====================================
+app                  0.0376
+diphosphate          0.0362
+maximal              0.0307
+fructose             0.0293
+kinetic              0.0289
+pep                  0.0268
+optima               0.0255
+km                   0.0255
+carboxylase          0.0242
+giving               0.0238
+
+=====================================
+diphosphate, t = 1978
+=====================================
+app                  0.0368
+diphosphate          0.0355
+maximal              0.0302
+fructose             0.0289
+kinetic              0.0285
+pep                  0.0269
+km                   0.0251
+optima               0.0249
+carboxylase          0.0239
+giving               0.0230
+
+=====================================
+diphosphate, t = 1979
+=====================================
+app                  0.0343
+diphosphate          0.0320
+maximal              0.0272
+fructose             0.0270
+kinetic              0.0258
+pep                  0.0246
+km                   0.0228
+optima               0.0224
+carboxylase          0.0211
+allosteric           0.0208
+
+=====================================
+diphosphate, t = 1980
+=====================================
+app                  0.0358
+diphosphate          0.0345
+maximal              0.0302
+fructose             0.0283
+kinetic              0.0278
+pep                  0.0273
+optima               0.0248
+km                   0.0246
+carboxylase          0.0239
+allosteric           0.0237
+
+=====================================
+diphosphate, t = 1981
+=====================================
+app                  0.0350
+diphosphate          0.0336
+maximal              0.0298
+fructose             0.0277
+pep                  0.0270
+kinetic              0.0269
+optima               0.0244
+km                   0.0242
+allosteric           0.0238
+carboxylase          0.0237
+
+=====================================
+diphosphate, t = 1982
+=====================================
+app                  0.0342
+diphosphate          0.0326
+maximal              0.0294
+fructose             0.0270
+pep                  0.0267
+kinetic              0.0260
+allosteric           0.0239
+optima               0.0238
+km                   0.0236
+carboxylase          0.0235
+
+=====================================
+diphosphate, t = 1983
+=====================================
+app                  0.0320
+diphosphate          0.0304
+maximal              0.0275
+fructose             0.0255
+pep                  0.0253
+kinetic              0.0240
+allosteric           0.0225
+carboxylase          0.0223
+km                   0.0221
+optima               0.0219
+
+=====================================
+diphosphate, t = 1984
+=====================================
+app                  0.0291
+diphosphate          0.0276
+maximal              0.0249
+fructose             0.0236
+pep                  0.0235
+kinetic              0.0214
+carboxylase          0.0206
+allosteric           0.0205
+km                   0.0200
+optima               0.0191
+
+=====================================
+diphosphate, t = 1985
+=====================================
+app                  0.0239
+diphosphate          0.0230
+fructose             0.0207
+pep                  0.0205
+maximal              0.0198
+carboxylase          0.0175
+allosteric           0.0166
+kinetic              0.0166
+km                   0.0155
+mg                   0.0143
+
+=====================================
+diphosphate, t = 1986
+=====================================
+app                  0.0239
+diphosphate          0.0222
+maximal              0.0199
+fructose             0.0198
+pep                  0.0197
+carboxylase          0.0171
+allosteric           0.0167
+kinetic              0.0165
+km                   0.0161
+optima               0.0138
+
+=====================================
+diphosphate, t = 1987
+=====================================
+app                  0.0218
+diphosphate          0.0202
+fructose             0.0183
+pep                  0.0181
+maximal              0.0179
+carboxylase          0.0155
+allosteric           0.0152
+kinetic              0.0146
+km                   0.0143
+mg                   0.0120
+
+=====================================
+diphosphate, t = 1988
+=====================================
+app                  0.0200
+diphosphate          0.0183
+fructose             0.0171
+pep                  0.0167
+maximal              0.0160
+carboxylase          0.0141
+allosteric           0.0139
+kinetic              0.0130
+km                   0.0127
+mg                   0.0101
+
+=====================================
+diphosphate, t = 1989
+=====================================
+app                  0.0163
+diphosphate          0.0148
+fructose             0.0138
+pep                  0.0129
+maximal              0.0107
+allosteric           0.0099
+carboxylase          0.0098
+kinetic              0.0097
+km                   0.0077
+mg                   0.0053
+
+=====================================
+diphosphate, t = 1990
+=====================================
+app                  0.0159
+diphosphate          0.0145
+fructose             0.0141
+pep                  0.0131
+maximal              0.0115
+allosteric           0.0104
+carboxylase          0.0103
+kinetic              0.0095
+km                   0.0084
+mg                   0.0058
+
+=====================================
+diphosphate, t = 1991
+=====================================
+app                  0.0148
+diphosphate          0.0136
+fructose             0.0136
+pep                  0.0126
+maximal              0.0110
+allosteric           0.0102
+carboxylase          0.0099
+kinetic              0.0086
+km                   0.0079
+mg                   0.0055
+
+=====================================
+diphosphate, t = 1992
+=====================================
+app                  0.0125
+fructose             0.0121
+diphosphate          0.0114
+pep                  0.0107
+maximal              0.0085
+allosteric           0.0082
+carboxylase          0.0078
+kinetic              0.0066
+km                   0.0057
+substrate            0.0042
+
+=====================================
+diphosphate, t = 1993
+=====================================
+fructose             0.0103
+app                  0.0096
+diphosphate          0.0086
+pep                  0.0082
+allosteric           0.0057
+maximal              0.0053
+carboxylase          0.0051
+kinetic              0.0040
+km                   0.0028
+substrate            0.0025
+
+=====================================
+diphosphate, t = 1994
+=====================================
+fructose             0.0112
+app                  0.0096
+diphosphate          0.0088
+pep                  0.0082
+allosteric           0.0059
+maximal              0.0056
+carboxylase          0.0054
+kinetic              0.0043
+substrate            0.0032
+km                   0.0029
+
+=====================================
+diphosphate, t = 1995
+=====================================
+fructose             0.0134
+app                  0.0108
+diphosphate          0.0103
+pep                  0.0095
+allosteric           0.0078
+carboxylase          0.0072
+maximal              0.0072
+kinetic              0.0056
+substrate            0.0051
+km                   0.0040
+
+=====================================
+diphosphate, t = 1996
+=====================================
+fructose             0.0166
+app                  0.0133
+diphosphate          0.0130
+pep                  0.0117
+allosteric           0.0104
+maximal              0.0095
+carboxylase          0.0094
+kinetic              0.0081
+substrate            0.0076
+km                   0.0056
+
+=====================================
+diphosphate, t = 1997
+=====================================
+fructose             0.0144
+diphosphate          0.0103
+app                  0.0102
+pep                  0.0095
+allosteric           0.0077
+carboxylase          0.0070
+maximal              0.0068
+substrate            0.0056
+kinetic              0.0054
+km                   0.0034
+
+=====================================
+diphosphate, t = 1998
+=====================================
+fructose             0.0102
+diphosphate          0.0053
+app                  0.0051
+pep                  0.0051
+carboxylase          0.0021
+allosteric           0.0020
+maximal              0.0009
+substrate            0.0007
+kinetic              0.0000
+km                   -0.0009
+
+=====================================
+diphosphate, t = 1999
+=====================================
+fructose             0.0083
+diphosphate          0.0033
+pep                  0.0032
+app                  0.0025
+allosteric           -0.0007
+carboxylase          -0.0007
+substrate            -0.0019
+maximal              -0.0020
+kinetic              -0.0020
+km                   -0.0031
+
+=====================================
+diphosphate, t = 2000
+=====================================
+fructose             0.0077
+pep                  0.0023
+diphosphate          0.0022
+app                  0.0010
+carboxylase          -0.0021
+allosteric           -0.0022
+substrate            -0.0032
+kinetic              -0.0032
+maximal              -0.0036
+km                   -0.0043
+
+=====================================
+diphosphate, t = 2001
+=====================================
+fructose             0.0075
+pep                  0.0019
+diphosphate          0.0016
+app                  0.0001
+carboxylase          -0.0028
+allosteric           -0.0030
+substrate            -0.0038
+kinetic              -0.0039
+maximal              -0.0046
+km                   -0.0050
+
+=====================================
+diphosphate, t = 2002
+=====================================
+fructose             0.0072
+pep                  0.0016
+diphosphate          0.0010
+app                  -0.0009
+carboxylase          -0.0035
+allosteric           -0.0037
+substrate            -0.0044
+kinetic              -0.0046
+maximal              -0.0056
+km                   -0.0057
+
+=====================================
+diphosphate, t = 2003
+=====================================
+fructose             0.0068
+pep                  0.0011
+diphosphate          0.0003
+app                  -0.0019
+carboxylase          -0.0042
+allosteric           -0.0044
+substrate            -0.0050
+kinetic              -0.0054
+km                   -0.0065
+maximal              -0.0066
+
+=====================================
+diphosphate, t = 2004
+=====================================
+fructose             0.0062
+pep                  0.0005
+diphosphate          -0.0005
+app                  -0.0029
+carboxylase          -0.0050
+allosteric           -0.0053
+substrate            -0.0057
+kinetic              -0.0063
+km                   -0.0074
+maximal              -0.0077
+
+=====================================
+diphosphate, t = 2005
+=====================================
+fructose             0.0054
+pep                  -0.0003
+diphosphate          -0.0015
+app                  -0.0041
+carboxylase          -0.0058
+allosteric           -0.0062
+substrate            -0.0066
+kinetic              -0.0073
+km                   -0.0084
+maximal              -0.0090
+
+=====================================
+diphosphate, t = 2006
+=====================================
+fructose             0.0045
+pep                  -0.0011
+diphosphate          -0.0026
+app                  -0.0054
+carboxylase          -0.0067
+allosteric           -0.0071
+substrate            -0.0075
+kinetic              -0.0084
+km                   -0.0095
+maximal              -0.0102
+
+=====================================
+diphosphate, t = 2007
+=====================================
+fructose             0.0037
+pep                  -0.0019
+diphosphate          -0.0035
+app                  -0.0065
+carboxylase          -0.0074
+allosteric           -0.0080
+substrate            -0.0084
+kinetic              -0.0094
+km                   -0.0104
+maximal              -0.0113
+
+=====================================
+diphosphate, t = 2008
+=====================================
+fructose             0.0029
+pep                  -0.0028
+diphosphate          -0.0046
+app                  -0.0077
+carboxylase          -0.0082
+allosteric           -0.0089
+substrate            -0.0093
+kinetic              -0.0105
+km                   -0.0114
+maximal              -0.0124
+
+=====================================
+diphosphate, t = 2009
+=====================================
+fructose             0.0022
+pep                  -0.0035
+diphosphate          -0.0055
+app                  -0.0086
+carboxylase          -0.0089
+allosteric           -0.0097
+substrate            -0.0100
+kinetic              -0.0114
+km                   -0.0122
+maximal              -0.0134
+
+=====================================
+diphosphate, t = 2010
+=====================================
+fructose             0.0015
+pep                  -0.0042
+diphosphate          -0.0063
+app                  -0.0095
+carboxylase          -0.0096
+allosteric           -0.0104
+substrate            -0.0106
+kinetic              -0.0122
+km                   -0.0130
+maximal              -0.0142
+
+=====================================
+diphosphate, t = 2011
+=====================================
+fructose             0.0010
+pep                  -0.0047
+diphosphate          -0.0071
+carboxylase          -0.0101
+app                  -0.0102
+allosteric           -0.0111
+substrate            -0.0112
+kinetic              -0.0129
+km                   -0.0136
+maximal              -0.0149
+
+=====================================
+diphosphate, t = 2012
+=====================================
+fructose             0.0005
+pep                  -0.0053
+diphosphate          -0.0077
+carboxylase          -0.0106
+app                  -0.0109
+allosteric           -0.0116
+substrate            -0.0118
+kinetic              -0.0136
+km                   -0.0142
+maximal              -0.0155
+
+=====================================
+diphosphate, t = 2013
+=====================================
+fructose             -0.0000
+pep                  -0.0059
+diphosphate          -0.0085
+carboxylase          -0.0111
+app                  -0.0118
+allosteric           -0.0123
+substrate            -0.0125
+kinetic              -0.0144
+km                   -0.0150
+maximal              -0.0162
+
+=====================================
+diphosphate, t = 2014
+=====================================
+fructose             -0.0006
+pep                  -0.0066
+diphosphate          -0.0095
+carboxylase          -0.0116
+app                  -0.0129
+allosteric           -0.0131
+substrate            -0.0132
+kinetic              -0.0154
+km                   -0.0159
+maximal              -0.0171
+
+=====================================
+diphosphate, t = 2015
+=====================================
+fructose             -0.0007
+pep                  -0.0068
+diphosphate          -0.0097
+carboxylase          -0.0117
+app                  -0.0131
+allosteric           -0.0132
+substrate            -0.0133
+kinetic              -0.0156
+km                   -0.0160
+maximal              -0.0172
+
+=====================================
+diphosphate, t = 2016
+=====================================
+fructose             -0.0010
+pep                  -0.0072
+diphosphate          -0.0102
+carboxylase          -0.0120
+app                  -0.0136
+allosteric           -0.0136
+substrate            -0.0137
+kinetic              -0.0160
+km                   -0.0164
+maximal              -0.0176
+
+=====================================
+diphosphate, t = 2017
+=====================================
+fructose             -0.0009
+pep                  -0.0069
+diphosphate          -0.0098
+carboxylase          -0.0119
+app                  -0.0131
+allosteric           -0.0134
+substrate            -0.0135
+kinetic              -0.0156
+km                   -0.0159
+maximal              -0.0173
+
+=====================================
+diphosphate, t = 2018
+=====================================
+fructose             -0.0008
+pep                  -0.0068
+diphosphate          -0.0097
+carboxylase          -0.0118
+app                  -0.0129
+allosteric           -0.0133
+substrate            -0.0133
+kinetic              -0.0155
+km                   -0.0156
+maximal              -0.0171

@@ -1,0 +1,701 @@
+
+
+=====================================
+cells, t = 1969
+=====================================
+adapted              0.0403
+splenic              0.0375
+washed               0.0365
+fto                  0.0360
+morphology           0.0359
+fully                0.0359
+faster               0.0343
+thymus               0.0338
+guinea               0.0333
+hyphal               0.0325
+
+=====================================
+cells, t = 1970
+=====================================
+adapted              0.0406
+splenic              0.0377
+washed               0.0366
+fto                  0.0363
+morphology           0.0362
+fully                0.0361
+faster               0.0347
+thymus               0.0339
+guinea               0.0334
+hyphal               0.0328
+
+=====================================
+cells, t = 1971
+=====================================
+adapted              0.0411
+splenic              0.0380
+washed               0.0369
+fto                  0.0367
+morphology           0.0367
+fully                0.0365
+faster               0.0351
+thymus               0.0344
+guinea               0.0339
+hyphal               0.0333
+
+=====================================
+cells, t = 1972
+=====================================
+adapted              0.0415
+splenic              0.0383
+washed               0.0371
+morphology           0.0371
+fto                  0.0370
+fully                0.0369
+faster               0.0356
+thymus               0.0348
+guinea               0.0342
+hyphal               0.0337
+
+=====================================
+cells, t = 1973
+=====================================
+adapted              0.0417
+splenic              0.0383
+morphology           0.0372
+fto                  0.0372
+washed               0.0370
+fully                0.0369
+faster               0.0358
+thymus               0.0348
+guinea               0.0342
+hyphal               0.0339
+
+=====================================
+cells, t = 1974
+=====================================
+adapted              0.0415
+splenic              0.0380
+fto                  0.0371
+morphology           0.0370
+washed               0.0366
+fully                0.0366
+faster               0.0358
+thymus               0.0347
+guinea               0.0340
+hyphal               0.0337
+
+=====================================
+cells, t = 1975
+=====================================
+adapted              0.0412
+splenic              0.0375
+fto                  0.0369
+morphology           0.0366
+fully                0.0360
+washed               0.0360
+faster               0.0357
+thymus               0.0343
+guinea               0.0337
+hyphal               0.0333
+
+=====================================
+cells, t = 1976
+=====================================
+adapted              0.0411
+splenic              0.0370
+fto                  0.0367
+morphology           0.0364
+faster               0.0357
+fully                0.0356
+washed               0.0355
+thymus               0.0341
+guinea               0.0335
+hyphal               0.0331
+
+=====================================
+cells, t = 1977
+=====================================
+adapted              0.0415
+splenic              0.0371
+fto                  0.0369
+morphology           0.0367
+faster               0.0364
+fully                0.0358
+washed               0.0355
+thymus               0.0345
+guinea               0.0339
+hyphal               0.0335
+
+=====================================
+cells, t = 1978
+=====================================
+adapted              0.0428
+morphology           0.0379
+splenic              0.0378
+faster               0.0378
+fto                  0.0378
+fully                0.0369
+washed               0.0363
+thymus               0.0360
+guinea               0.0351
+hyphal               0.0350
+
+=====================================
+cells, t = 1979
+=====================================
+adapted              0.0447
+faster               0.0399
+morphology           0.0398
+fto                  0.0392
+splenic              0.0391
+fully                0.0385
+thymus               0.0382
+washed               0.0376
+hyphal               0.0371
+guinea               0.0367
+
+=====================================
+cells, t = 1980
+=====================================
+adapted              0.0462
+faster               0.0415
+morphology           0.0411
+fto                  0.0402
+splenic              0.0399
+thymus               0.0399
+fully                0.0396
+hyphal               0.0386
+washed               0.0385
+guinea               0.0380
+
+=====================================
+cells, t = 1981
+=====================================
+adapted              0.0470
+faster               0.0428
+morphology           0.0421
+thymus               0.0410
+fto                  0.0408
+fully                0.0404
+splenic              0.0403
+hyphal               0.0396
+washed               0.0389
+guinea               0.0386
+
+=====================================
+cells, t = 1982
+=====================================
+adapted              0.0460
+faster               0.0425
+morphology           0.0411
+fto                  0.0403
+thymus               0.0401
+fully                0.0394
+splenic              0.0389
+hyphal               0.0388
+washed               0.0380
+guinea               0.0375
+
+=====================================
+cells, t = 1983
+=====================================
+adapted              0.0439
+faster               0.0408
+morphology           0.0394
+fto                  0.0391
+thymus               0.0381
+fully                0.0375
+hyphal               0.0369
+splenic              0.0366
+washed               0.0362
+guinea               0.0355
+
+=====================================
+cells, t = 1984
+=====================================
+adapted              0.0421
+faster               0.0390
+fto                  0.0377
+morphology           0.0376
+thymus               0.0364
+fully                0.0361
+hyphal               0.0351
+splenic              0.0348
+washed               0.0347
+guinea               0.0338
+
+=====================================
+cells, t = 1985
+=====================================
+adapted              0.0401
+faster               0.0378
+fto                  0.0363
+morphology           0.0358
+thymus               0.0347
+fully                0.0346
+washed               0.0333
+splenic              0.0332
+hyphal               0.0331
+guinea               0.0318
+
+=====================================
+cells, t = 1986
+=====================================
+adapted              0.0385
+faster               0.0362
+fto                  0.0352
+morphology           0.0340
+fully                0.0331
+thymus               0.0325
+washed               0.0318
+splenic              0.0313
+hyphal               0.0310
+guinea               0.0299
+
+=====================================
+cells, t = 1987
+=====================================
+adapted              0.0389
+faster               0.0365
+fto                  0.0359
+morphology           0.0345
+fully                0.0338
+thymus               0.0330
+washed               0.0323
+hyphal               0.0318
+splenic              0.0318
+guinea               0.0303
+
+=====================================
+cells, t = 1988
+=====================================
+adapted              0.0374
+fto                  0.0355
+faster               0.0349
+morphology           0.0329
+fully                0.0325
+thymus               0.0314
+washed               0.0313
+splenic              0.0304
+hyphal               0.0303
+guinea               0.0290
+
+=====================================
+cells, t = 1989
+=====================================
+adapted              0.0374
+fto                  0.0358
+faster               0.0347
+morphology           0.0328
+fully                0.0327
+washed               0.0315
+thymus               0.0312
+splenic              0.0303
+hyphal               0.0301
+guinea               0.0287
+
+=====================================
+cells, t = 1990
+=====================================
+fto                  0.0332
+adapted              0.0331
+faster               0.0305
+fully                0.0286
+morphology           0.0284
+washed               0.0280
+thymus               0.0272
+splenic              0.0264
+hyphal               0.0256
+guinea               0.0248
+
+=====================================
+cells, t = 1991
+=====================================
+fto                  0.0305
+adapted              0.0291
+faster               0.0268
+fully                0.0248
+washed               0.0246
+morphology           0.0244
+thymus               0.0235
+splenic              0.0229
+hyphal               0.0215
+guinea               0.0211
+
+=====================================
+cells, t = 1992
+=====================================
+fto                  0.0290
+adapted              0.0270
+faster               0.0247
+fully                0.0229
+washed               0.0229
+morphology           0.0227
+thymus               0.0217
+splenic              0.0212
+hyphal               0.0199
+guinea               0.0193
+
+=====================================
+cells, t = 1993
+=====================================
+fto                  0.0294
+adapted              0.0270
+faster               0.0244
+washed               0.0230
+fully                0.0230
+morphology           0.0226
+thymus               0.0217
+splenic              0.0206
+hyphal               0.0202
+guinea               0.0190
+
+=====================================
+cells, t = 1994
+=====================================
+fto                  0.0295
+adapted              0.0268
+faster               0.0241
+washed               0.0231
+fully                0.0230
+morphology           0.0224
+thymus               0.0217
+hyphal               0.0203
+splenic              0.0201
+guinea               0.0187
+
+=====================================
+cells, t = 1995
+=====================================
+fto                  0.0295
+adapted              0.0265
+faster               0.0237
+washed               0.0229
+fully                0.0227
+morphology           0.0220
+thymus               0.0215
+hyphal               0.0201
+splenic              0.0193
+guinea               0.0182
+
+=====================================
+cells, t = 1996
+=====================================
+fto                  0.0289
+adapted              0.0251
+faster               0.0224
+washed               0.0216
+fully                0.0214
+morphology           0.0206
+thymus               0.0201
+hyphal               0.0187
+splenic              0.0177
+guinea               0.0170
+
+=====================================
+cells, t = 1997
+=====================================
+fto                  0.0267
+adapted              0.0209
+faster               0.0191
+washed               0.0184
+fully                0.0178
+morphology           0.0167
+thymus               0.0162
+hyphal               0.0145
+splenic              0.0140
+guinea               0.0136
+
+=====================================
+cells, t = 1998
+=====================================
+fto                  0.0247
+adapted              0.0171
+faster               0.0162
+washed               0.0152
+fully                0.0146
+morphology           0.0130
+thymus               0.0127
+hyphal               0.0109
+splenic              0.0106
+guinea               0.0104
+
+=====================================
+cells, t = 1999
+=====================================
+fto                  0.0229
+adapted              0.0133
+faster               0.0132
+washed               0.0120
+fully                0.0113
+morphology           0.0091
+thymus               0.0088
+guinea               0.0070
+hyphal               0.0069
+splenic              0.0069
+
+=====================================
+cells, t = 2000
+=====================================
+fto                  0.0212
+faster               0.0109
+adapted              0.0101
+washed               0.0093
+fully                0.0086
+morphology           0.0060
+thymus               0.0058
+guinea               0.0045
+splenic              0.0041
+hyphal               0.0038
+
+=====================================
+cells, t = 2001
+=====================================
+fto                  0.0200
+faster               0.0092
+adapted              0.0078
+washed               0.0075
+fully                0.0069
+thymus               0.0036
+morphology           0.0036
+guinea               0.0025
+splenic              0.0018
+hyphal               0.0016
+
+=====================================
+cells, t = 2002
+=====================================
+fto                  0.0192
+faster               0.0081
+washed               0.0064
+adapted              0.0063
+fully                0.0058
+thymus               0.0022
+morphology           0.0020
+guinea               0.0012
+hyphal               0.0002
+splenic              0.0001
+
+=====================================
+cells, t = 2003
+=====================================
+fto                  0.0194
+faster               0.0080
+washed               0.0065
+fully                0.0061
+adapted              0.0059
+thymus               0.0020
+morphology           0.0017
+guinea               0.0010
+exerted              0.0008
+hyphal               0.0003
+
+=====================================
+cells, t = 2004
+=====================================
+fto                  0.0197
+faster               0.0083
+washed               0.0068
+fully                0.0066
+adapted              0.0059
+thymus               0.0021
+exerted              0.0019
+morphology           0.0016
+guinea               0.0010
+hyphal               0.0006
+
+=====================================
+cells, t = 2005
+=====================================
+fto                  0.0198
+faster               0.0085
+fully                0.0071
+washed               0.0070
+adapted              0.0057
+exerted              0.0029
+thymus               0.0021
+morphology           0.0013
+hyphal               0.0009
+guinea               0.0007
+
+=====================================
+cells, t = 2006
+=====================================
+fto                  0.0197
+faster               0.0085
+fully                0.0074
+washed               0.0071
+adapted              0.0056
+exerted              0.0037
+thymus               0.0020
+morphology           0.0011
+hyphal               0.0010
+guinea               0.0005
+
+=====================================
+cells, t = 2007
+=====================================
+fto                  0.0197
+faster               0.0086
+fully                0.0077
+washed               0.0071
+adapted              0.0056
+exerted              0.0046
+thymus               0.0021
+hyphal               0.0015
+morphology           0.0012
+approaches           0.0004
+
+=====================================
+cells, t = 2008
+=====================================
+fto                  0.0192
+faster               0.0083
+fully                0.0076
+washed               0.0068
+adapted              0.0054
+exerted              0.0050
+thymus               0.0018
+hyphal               0.0014
+morphology           0.0007
+approaches           0.0002
+
+=====================================
+cells, t = 2009
+=====================================
+fto                  0.0210
+fully                0.0107
+faster               0.0105
+washed               0.0095
+adapted              0.0083
+exerted              0.0075
+hyphal               0.0048
+thymus               0.0043
+morphology           0.0036
+approaches           0.0022
+
+=====================================
+cells, t = 2010
+=====================================
+fto                  0.0228
+fully                0.0142
+faster               0.0131
+washed               0.0125
+adapted              0.0115
+exerted              0.0103
+hyphal               0.0086
+thymus               0.0077
+morphology           0.0069
+approaches           0.0053
+
+=====================================
+cells, t = 2011
+=====================================
+fto                  0.0227
+fully                0.0150
+faster               0.0138
+washed               0.0131
+adapted              0.0120
+exerted              0.0109
+hyphal               0.0090
+thymus               0.0080
+morphology           0.0073
+approaches           0.0055
+
+=====================================
+cells, t = 2012
+=====================================
+fto                  0.0235
+fully                0.0164
+faster               0.0152
+washed               0.0139
+adapted              0.0129
+exerted              0.0125
+hyphal               0.0104
+thymus               0.0093
+morphology           0.0084
+approaches           0.0075
+
+=====================================
+cells, t = 2013
+=====================================
+fto                  0.0229
+fully                0.0150
+faster               0.0146
+washed               0.0129
+exerted              0.0123
+adapted              0.0115
+hyphal               0.0091
+thymus               0.0083
+approaches           0.0075
+morphology           0.0071
+
+=====================================
+cells, t = 2014
+=====================================
+fto                  0.0208
+faster               0.0139
+fully                0.0132
+washed               0.0110
+exerted              0.0107
+adapted              0.0104
+thymus               0.0080
+hyphal               0.0074
+morphology           0.0061
+approaches           0.0060
+
+=====================================
+cells, t = 2015
+=====================================
+fto                  0.0179
+faster               0.0099
+fully                0.0090
+washed               0.0073
+adapted              0.0068
+exerted              0.0068
+thymus               0.0034
+hyphal               0.0027
+morphology           0.0025
+approaches           0.0023
+
+=====================================
+cells, t = 2016
+=====================================
+fto                  0.0135
+faster               0.0040
+fully                0.0028
+exerted              0.0020
+washed               0.0018
+adapted              0.0005
+approaches           -0.0031
+magnitude            -0.0031
+thymus               -0.0033
+morphology           -0.0039
+
+=====================================
+cells, t = 2017
+=====================================
+fto                  0.0126
+faster               0.0024
+exerted              0.0010
+fully                0.0008
+washed               0.0005
+adapted              -0.0019
+magnitude            -0.0038
+approaches           -0.0040
+thymus               -0.0055
+morphology           -0.0060
+
+=====================================
+cells, t = 2018
+=====================================
+fto                  0.0131
+faster               0.0025
+exerted              0.0018
+fully                0.0014
+washed               0.0010
+adapted              -0.0020
+magnitude            -0.0033
+approaches           -0.0033
+thymus               -0.0052
+hyphal               -0.0060

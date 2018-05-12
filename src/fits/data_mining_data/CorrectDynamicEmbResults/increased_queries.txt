@@ -1,0 +1,701 @@
+
+
+=====================================
+increased, t = 1969
+=====================================
+weak                 0.0325
+diphosphoglycerate   0.0260
+feeding              0.0252
+light                0.0251
+well                 0.0229
+increased            0.0218
+red                  0.0145
+lipid                0.0138
+eliminating          0.0129
+leads                0.0116
+
+=====================================
+increased, t = 1970
+=====================================
+weak                 0.0266
+diphosphoglycerate   0.0213
+light                0.0201
+feeding              0.0165
+well                 0.0165
+increased            0.0126
+eliminating          0.0085
+red                  0.0076
+leads                0.0073
+lipid                0.0066
+
+=====================================
+increased, t = 1971
+=====================================
+weak                 0.0256
+light                0.0191
+diphosphoglycerate   0.0183
+feeding              0.0168
+well                 0.0164
+increased            0.0142
+eliminating          0.0066
+leads                0.0064
+red                  0.0062
+lipid                0.0061
+
+=====================================
+increased, t = 1972
+=====================================
+weak                 0.0262
+feeding              0.0198
+light                0.0194
+increased            0.0184
+well                 0.0183
+diphosphoglycerate   0.0171
+lipid                0.0086
+red                  0.0072
+leads                0.0067
+eliminating          0.0064
+
+=====================================
+increased, t = 1973
+=====================================
+weak                 0.0245
+feeding              0.0188
+increased            0.0183
+light                0.0178
+well                 0.0172
+diphosphoglycerate   0.0148
+lipid                0.0074
+red                  0.0057
+leads                0.0054
+eliminating          0.0044
+
+=====================================
+increased, t = 1974
+=====================================
+weak                 0.0223
+increased            0.0174
+feeding              0.0170
+light                0.0158
+well                 0.0154
+diphosphoglycerate   0.0123
+lipid                0.0055
+leads                0.0039
+red                  0.0038
+eliminating          0.0021
+
+=====================================
+increased, t = 1975
+=====================================
+weak                 0.0201
+increased            0.0160
+feeding              0.0149
+light                0.0137
+well                 0.0134
+diphosphoglycerate   0.0098
+lipid                0.0032
+leads                0.0026
+red                  0.0018
+eliminating          -0.0003
+
+=====================================
+increased, t = 1976
+=====================================
+weak                 0.0192
+increased            0.0159
+feeding              0.0142
+light                0.0131
+well                 0.0123
+diphosphoglycerate   0.0089
+leads                0.0026
+lipid                0.0026
+red                  0.0015
+dehydrogenase        -0.0010
+
+=====================================
+increased, t = 1977
+=====================================
+weak                 0.0182
+increased            0.0157
+feeding              0.0132
+light                0.0122
+well                 0.0109
+diphosphoglycerate   0.0076
+leads                0.0023
+lipid                0.0015
+red                  0.0009
+dehydrogenase        -0.0006
+
+=====================================
+increased, t = 1978
+=====================================
+weak                 0.0179
+increased            0.0165
+feeding              0.0135
+light                0.0120
+well                 0.0102
+diphosphoglycerate   0.0071
+leads                0.0026
+lipid                0.0014
+red                  0.0013
+dehydrogenase        0.0006
+
+=====================================
+increased, t = 1979
+=====================================
+weak                 0.0164
+increased            0.0161
+feeding              0.0122
+light                0.0105
+well                 0.0086
+diphosphoglycerate   0.0055
+leads                0.0018
+dehydrogenase        0.0006
+red                  0.0003
+lipid                -0.0001
+
+=====================================
+increased, t = 1980
+=====================================
+increased            0.0159
+weak                 0.0154
+feeding              0.0114
+light                0.0095
+well                 0.0076
+diphosphoglycerate   0.0042
+leads                0.0008
+dehydrogenase        0.0008
+red                  -0.0001
+lipid                -0.0011
+
+=====================================
+increased, t = 1981
+=====================================
+increased            0.0156
+weak                 0.0141
+feeding              0.0103
+light                0.0083
+well                 0.0066
+diphosphoglycerate   0.0026
+dehydrogenase        0.0005
+leads                -0.0006
+red                  -0.0008
+lipid                -0.0025
+
+=====================================
+increased, t = 1982
+=====================================
+increased            0.0154
+weak                 0.0129
+feeding              0.0093
+light                0.0072
+well                 0.0056
+diphosphoglycerate   0.0009
+dehydrogenase        0.0003
+red                  -0.0016
+leads                -0.0020
+lipid                -0.0038
+
+=====================================
+increased, t = 1983
+=====================================
+increased            0.0153
+weak                 0.0118
+feeding              0.0084
+light                0.0062
+well                 0.0047
+dehydrogenase        0.0002
+diphosphoglycerate   -0.0007
+red                  -0.0023
+leads                -0.0032
+lipid                -0.0050
+
+=====================================
+increased, t = 1984
+=====================================
+increased            0.0159
+weak                 0.0114
+feeding              0.0083
+light                0.0059
+well                 0.0043
+dehydrogenase        0.0008
+diphosphoglycerate   -0.0015
+red                  -0.0023
+leads                -0.0035
+lipid                -0.0052
+
+=====================================
+increased, t = 1985
+=====================================
+increased            0.0166
+weak                 0.0109
+feeding              0.0081
+light                0.0053
+well                 0.0037
+dehydrogenase        0.0015
+red                  -0.0022
+diphosphoglycerate   -0.0023
+leads                -0.0037
+lipid                -0.0054
+
+=====================================
+increased, t = 1986
+=====================================
+increased            0.0177
+weak                 0.0111
+feeding              0.0088
+light                0.0057
+well                 0.0039
+dehydrogenase        0.0024
+red                  -0.0017
+diphosphoglycerate   -0.0022
+leads                -0.0031
+lipid                -0.0048
+
+=====================================
+increased, t = 1987
+=====================================
+increased            0.0240
+weak                 0.0185
+feeding              0.0159
+light                0.0125
+well                 0.0096
+dehydrogenase        0.0083
+red                  0.0051
+leads                0.0046
+diphosphoglycerate   0.0030
+lipid                0.0030
+
+=====================================
+increased, t = 1988
+=====================================
+increased            0.0210
+weak                 0.0130
+feeding              0.0124
+light                0.0079
+well                 0.0061
+dehydrogenase        0.0045
+red                  0.0016
+diphosphoglycerate   0.0001
+leads                -0.0009
+lipid                -0.0012
+
+=====================================
+increased, t = 1989
+=====================================
+increased            0.0255
+feeding              0.0172
+weak                 0.0170
+light                0.0124
+well                 0.0103
+red                  0.0060
+dehydrogenase        0.0060
+septic               0.0036
+diphosphoglycerate   0.0031
+lipid                0.0030
+
+=====================================
+increased, t = 1990
+=====================================
+increased            0.0233
+feeding              0.0137
+weak                 0.0128
+light                0.0081
+well                 0.0065
+dehydrogenase        0.0050
+red                  0.0017
+septic               0.0005
+lipid                -0.0001
+diphosphoglycerate   -0.0006
+
+=====================================
+increased, t = 1991
+=====================================
+increased            0.0221
+feeding              0.0111
+weak                 0.0096
+light                0.0048
+dehydrogenase        0.0042
+well                 0.0035
+red                  -0.0015
+septic               -0.0021
+pyruvate             -0.0024
+lipid                -0.0029
+
+=====================================
+increased, t = 1992
+=====================================
+increased            0.0207
+feeding              0.0089
+weak                 0.0069
+dehydrogenase        0.0031
+light                0.0023
+well                 0.0011
+pyruvate             -0.0035
+red                  -0.0037
+septic               -0.0047
+leads                -0.0050
+
+=====================================
+increased, t = 1993
+=====================================
+increased            0.0182
+feeding              0.0058
+weak                 0.0035
+dehydrogenase        0.0011
+light                -0.0006
+well                 -0.0019
+pyruvate             -0.0055
+red                  -0.0065
+myocardium           -0.0075
+intake               -0.0077
+
+=====================================
+increased, t = 1994
+=====================================
+increased            0.0155
+feeding              0.0028
+weak                 0.0006
+dehydrogenase        -0.0003
+light                -0.0031
+well                 -0.0048
+pyruvate             -0.0072
+red                  -0.0088
+myocardium           -0.0092
+intake               -0.0095
+
+=====================================
+increased, t = 1995
+=====================================
+increased            0.0157
+feeding              0.0025
+dehydrogenase        -0.0003
+weak                 -0.0003
+light                -0.0035
+well                 -0.0055
+pyruvate             -0.0073
+intake               -0.0090
+myocardium           -0.0091
+red                  -0.0092
+
+=====================================
+increased, t = 1996
+=====================================
+increased            0.0174
+feeding              0.0049
+dehydrogenase        0.0007
+weak                 0.0006
+light                -0.0016
+well                 -0.0037
+myocardium           -0.0057
+pyruvate             -0.0058
+red                  -0.0069
+intake               -0.0070
+
+=====================================
+increased, t = 1997
+=====================================
+increased            0.0186
+feeding              0.0062
+weak                 0.0012
+dehydrogenase        0.0011
+light                -0.0003
+well                 -0.0027
+myocardium           -0.0036
+pyruvate             -0.0052
+intake               -0.0059
+red                  -0.0062
+
+=====================================
+increased, t = 1998
+=====================================
+increased            0.0199
+feeding              0.0075
+weak                 0.0025
+dehydrogenase        0.0015
+light                0.0006
+myocardium           0.0001
+well                 -0.0018
+pdh                  -0.0042
+intake               -0.0046
+pyruvate             -0.0047
+
+=====================================
+increased, t = 1999
+=====================================
+increased            0.0201
+feeding              0.0082
+weak                 0.0030
+myocardium           0.0023
+dehydrogenase        0.0008
+light                0.0007
+well                 -0.0014
+pdh                  -0.0025
+red                  -0.0047
+intake               -0.0050
+
+=====================================
+increased, t = 2000
+=====================================
+increased            0.0147
+feeding              0.0020
+weak                 -0.0028
+dehydrogenase        -0.0031
+light                -0.0047
+well                 -0.0064
+myocardium           -0.0065
+pdh                  -0.0080
+pyruvate             -0.0093
+carboxykinase        -0.0098
+
+=====================================
+increased, t = 2001
+=====================================
+increased            0.0112
+feeding              -0.0018
+dehydrogenase        -0.0055
+weak                 -0.0064
+light                -0.0081
+well                 -0.0093
+pdh                  -0.0111
+myocardium           -0.0116
+pyruvate             -0.0120
+carboxykinase        -0.0126
+
+=====================================
+increased, t = 2002
+=====================================
+increased            0.0103
+feeding              -0.0028
+dehydrogenase        -0.0055
+weak                 -0.0078
+light                -0.0092
+well                 -0.0101
+pdh                  -0.0119
+pyruvate             -0.0127
+carboxykinase        -0.0129
+myocardium           -0.0134
+
+=====================================
+increased, t = 2003
+=====================================
+increased            0.0100
+feeding              -0.0029
+dehydrogenase        -0.0060
+weak                 -0.0088
+well                 -0.0098
+light                -0.0098
+pdh                  -0.0120
+carboxykinase        -0.0130
+pyruvate             -0.0131
+intake               -0.0136
+
+=====================================
+increased, t = 2004
+=====================================
+increased            0.0102
+feeding              -0.0024
+dehydrogenase        -0.0059
+weak                 -0.0090
+well                 -0.0093
+light                -0.0095
+pdh                  -0.0112
+carboxykinase        -0.0126
+pyruvate             -0.0128
+intake               -0.0132
+
+=====================================
+increased, t = 2005
+=====================================
+increased            0.0148
+feeding              0.0046
+dehydrogenase        0.0007
+light                -0.0028
+pdh                  -0.0031
+weak                 -0.0047
+diet                 -0.0054
+pyruvate             -0.0055
+well                 -0.0055
+carboxykinase        -0.0061
+
+=====================================
+increased, t = 2006
+=====================================
+increased            0.0113
+feeding              0.0007
+dehydrogenase        -0.0049
+well                 -0.0066
+weak                 -0.0072
+light                -0.0074
+pdh                  -0.0087
+diet                 -0.0097
+carboxykinase        -0.0107
+pyruvate             -0.0109
+
+=====================================
+increased, t = 2007
+=====================================
+increased            0.0098
+feeding              0.0002
+well                 -0.0063
+dehydrogenase        -0.0067
+weak                 -0.0075
+light                -0.0082
+pdh                  -0.0100
+diet                 -0.0109
+carboxykinase        -0.0121
+intake               -0.0131
+
+=====================================
+increased, t = 2008
+=====================================
+increased            0.0085
+feeding              -0.0027
+dehydrogenase        -0.0078
+well                 -0.0091
+weak                 -0.0108
+light                -0.0109
+pdh                  -0.0117
+diet                 -0.0119
+carboxykinase        -0.0134
+intake               -0.0141
+
+=====================================
+increased, t = 2009
+=====================================
+increased            0.0060
+feeding              -0.0063
+dehydrogenase        -0.0099
+well                 -0.0115
+light                -0.0138
+weak                 -0.0141
+pdh                  -0.0143
+diet                 -0.0145
+carboxykinase        -0.0158
+intake               -0.0161
+
+=====================================
+increased, t = 2010
+=====================================
+increased            0.0044
+feeding              -0.0083
+dehydrogenase        -0.0112
+well                 -0.0131
+light                -0.0155
+diet                 -0.0158
+pdh                  -0.0159
+weak                 -0.0160
+carboxykinase        -0.0171
+intake               -0.0174
+
+=====================================
+increased, t = 2011
+=====================================
+increased            0.0028
+feeding              -0.0102
+dehydrogenase        -0.0121
+well                 -0.0147
+light                -0.0172
+diet                 -0.0173
+pdh                  -0.0175
+weak                 -0.0179
+carboxykinase        -0.0184
+pyruvate             -0.0186
+
+=====================================
+increased, t = 2012
+=====================================
+increased            0.0023
+feeding              -0.0107
+dehydrogenase        -0.0119
+well                 -0.0150
+light                -0.0171
+diet                 -0.0175
+weak                 -0.0177
+pdh                  -0.0179
+pyruvate             -0.0183
+carboxykinase        -0.0185
+
+=====================================
+increased, t = 2013
+=====================================
+increased            0.0012
+feeding              -0.0118
+dehydrogenase        -0.0121
+well                 -0.0157
+light                -0.0177
+weak                 -0.0183
+pyruvate             -0.0184
+diet                 -0.0185
+pdh                  -0.0189
+intake               -0.0192
+
+=====================================
+increased, t = 2014
+=====================================
+increased            0.0006
+dehydrogenase        -0.0119
+feeding              -0.0125
+well                 -0.0163
+light                -0.0177
+pyruvate             -0.0180
+weak                 -0.0183
+diet                 -0.0191
+intake               -0.0193
+carboxykinase        -0.0195
+
+=====================================
+increased, t = 2015
+=====================================
+increased            -0.0001
+dehydrogenase        -0.0120
+feeding              -0.0134
+well                 -0.0170
+pyruvate             -0.0180
+light                -0.0181
+weak                 -0.0188
+intake               -0.0197
+diet                 -0.0198
+carboxykinase        -0.0199
+
+=====================================
+increased, t = 2016
+=====================================
+increased            -0.0007
+dehydrogenase        -0.0122
+feeding              -0.0141
+well                 -0.0176
+pyruvate             -0.0180
+light                -0.0186
+weak                 -0.0192
+intake               -0.0201
+carboxykinase        -0.0204
+diet                 -0.0204
+
+=====================================
+increased, t = 2017
+=====================================
+increased            -0.0011
+dehydrogenase        -0.0123
+feeding              -0.0146
+pyruvate             -0.0180
+well                 -0.0181
+light                -0.0189
+weak                 -0.0196
+intake               -0.0203
+carboxykinase        -0.0207
+diet                 -0.0209
+
+=====================================
+increased, t = 2018
+=====================================
+increased            -0.0013
+dehydrogenase        -0.0123
+feeding              -0.0149
+pyruvate             -0.0180
+well                 -0.0182
+light                -0.0191
+weak                 -0.0197
+intake               -0.0205
+carboxykinase        -0.0208
+diet                 -0.0211

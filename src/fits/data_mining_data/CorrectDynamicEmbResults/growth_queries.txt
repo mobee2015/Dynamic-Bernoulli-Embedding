@@ -1,0 +1,701 @@
+
+
+=====================================
+growth, t = 1969
+=====================================
+glycogen             0.0396
+growth               0.0351
+diabetic             0.0272
+lysine               0.0272
+first                0.0269
+absence              0.0253
+interrupted          0.0244
+depressed            0.0161
+source               0.0141
+medium               0.0130
+
+=====================================
+growth, t = 1970
+=====================================
+glycogen             0.0395
+growth               0.0349
+diabetic             0.0271
+lysine               0.0271
+first                0.0268
+absence              0.0252
+interrupted          0.0242
+depressed            0.0160
+source               0.0140
+medium               0.0128
+
+=====================================
+growth, t = 1971
+=====================================
+glycogen             0.0385
+growth               0.0336
+diabetic             0.0259
+lysine               0.0254
+first                0.0254
+absence              0.0242
+interrupted          0.0226
+depressed            0.0149
+source               0.0124
+medium               0.0115
+
+=====================================
+growth, t = 1972
+=====================================
+glycogen             0.0370
+growth               0.0318
+diabetic             0.0242
+first                0.0238
+lysine               0.0237
+absence              0.0230
+interrupted          0.0207
+depressed            0.0134
+source               0.0107
+medium               0.0101
+
+=====================================
+growth, t = 1973
+=====================================
+glycogen             0.0351
+growth               0.0297
+diabetic             0.0220
+first                0.0219
+lysine               0.0215
+absence              0.0214
+interrupted          0.0184
+depressed            0.0112
+medium               0.0084
+source               0.0083
+
+=====================================
+growth, t = 1974
+=====================================
+glycogen             0.0333
+growth               0.0278
+first                0.0202
+absence              0.0201
+diabetic             0.0201
+lysine               0.0196
+interrupted          0.0164
+depressed            0.0095
+medium               0.0068
+together             0.0065
+
+=====================================
+growth, t = 1975
+=====================================
+glycogen             0.0311
+growth               0.0255
+absence              0.0184
+first                0.0180
+diabetic             0.0176
+lysine               0.0172
+interrupted          0.0138
+depressed            0.0072
+medium               0.0049
+together             0.0045
+
+=====================================
+growth, t = 1976
+=====================================
+glycogen             0.0291
+growth               0.0234
+absence              0.0168
+first                0.0162
+diabetic             0.0155
+lysine               0.0153
+interrupted          0.0120
+depressed            0.0053
+medium               0.0035
+together             0.0027
+
+=====================================
+growth, t = 1977
+=====================================
+glycogen             0.0267
+growth               0.0209
+absence              0.0147
+first                0.0138
+lysine               0.0128
+diabetic             0.0128
+interrupted          0.0095
+depressed            0.0029
+medium               0.0016
+together             0.0004
+
+=====================================
+growth, t = 1978
+=====================================
+glycogen             0.0207
+growth               0.0138
+first                0.0084
+absence              0.0072
+diabetic             0.0066
+lysine               0.0063
+interrupted          0.0038
+medium               -0.0032
+depressed            -0.0037
+together             -0.0059
+
+=====================================
+growth, t = 1979
+=====================================
+glycogen             0.0203
+growth               0.0144
+absence              0.0094
+first                0.0080
+diabetic             0.0063
+lysine               0.0061
+interrupted          0.0033
+medium               -0.0031
+depressed            -0.0032
+together             -0.0055
+
+=====================================
+growth, t = 1980
+=====================================
+glycogen             0.0184
+growth               0.0131
+absence              0.0079
+first                0.0065
+diabetic             0.0053
+lysine               0.0047
+interrupted          0.0022
+depressed            -0.0043
+medium               -0.0045
+together             -0.0068
+
+=====================================
+growth, t = 1981
+=====================================
+glycogen             0.0169
+growth               0.0106
+absence              0.0064
+first                0.0047
+diabetic             0.0030
+lysine               0.0029
+interrupted          0.0004
+depressed            -0.0056
+medium               -0.0062
+together             -0.0080
+
+=====================================
+growth, t = 1982
+=====================================
+glycogen             0.0175
+growth               0.0112
+absence              0.0070
+first                0.0056
+lysine               0.0039
+diabetic             0.0037
+interrupted          0.0012
+depressed            -0.0045
+medium               -0.0059
+together             -0.0070
+
+=====================================
+growth, t = 1983
+=====================================
+glycogen             0.0199
+growth               0.0136
+absence              0.0107
+first                0.0085
+lysine               0.0076
+diabetic             0.0057
+interrupted          0.0038
+depressed            -0.0012
+medium               -0.0041
+together             -0.0042
+
+=====================================
+growth, t = 1984
+=====================================
+glycogen             0.0205
+growth               0.0145
+absence              0.0132
+first                0.0099
+lysine               0.0096
+diabetic             0.0057
+interrupted          0.0048
+depressed            0.0002
+could                -0.0029
+ethanol              -0.0030
+
+=====================================
+growth, t = 1985
+=====================================
+glycogen             0.0160
+growth               0.0101
+absence              0.0081
+first                0.0056
+lysine               0.0044
+diabetic             0.0021
+interrupted          0.0012
+depressed            -0.0041
+medium               -0.0059
+could                -0.0069
+
+=====================================
+growth, t = 1986
+=====================================
+glycogen             0.0139
+growth               0.0077
+absence              0.0058
+first                0.0030
+lysine               0.0014
+diabetic             0.0001
+interrupted          -0.0009
+depressed            -0.0060
+medium               -0.0077
+alanine              -0.0088
+
+=====================================
+growth, t = 1987
+=====================================
+glycogen             0.0125
+growth               0.0058
+absence              0.0042
+first                0.0007
+lysine               -0.0011
+diabetic             -0.0013
+interrupted          -0.0025
+depressed            -0.0072
+medium               -0.0092
+alanine              -0.0099
+
+=====================================
+growth, t = 1988
+=====================================
+glycogen             0.0115
+growth               0.0046
+absence              0.0038
+first                -0.0003
+lysine               -0.0018
+diabetic             -0.0024
+interrupted          -0.0030
+depressed            -0.0080
+medium               -0.0097
+alanine              -0.0099
+
+=====================================
+growth, t = 1989
+=====================================
+glycogen             0.0098
+growth               0.0027
+absence              0.0026
+first                -0.0021
+lysine               -0.0035
+diabetic             -0.0046
+interrupted          -0.0046
+depressed            -0.0098
+alanine              -0.0105
+medium               -0.0108
+
+=====================================
+growth, t = 1990
+=====================================
+glycogen             0.0096
+absence              0.0035
+growth               0.0027
+first                -0.0020
+lysine               -0.0029
+interrupted          -0.0037
+diabetic             -0.0042
+depressed            -0.0086
+alanine              -0.0098
+medium               -0.0101
+
+=====================================
+growth, t = 1991
+=====================================
+glycogen             0.0084
+absence              0.0032
+growth               0.0018
+first                -0.0026
+lysine               -0.0031
+interrupted          -0.0041
+diabetic             -0.0053
+depressed            -0.0093
+alanine              -0.0097
+co                   -0.0097
+
+=====================================
+growth, t = 1992
+=====================================
+glycogen             0.0075
+absence              0.0032
+growth               0.0010
+first                -0.0031
+lysine               -0.0035
+interrupted          -0.0042
+diabetic             -0.0060
+co                   -0.0085
+depressed            -0.0093
+alanine              -0.0093
+
+=====================================
+growth, t = 1993
+=====================================
+glycogen             0.0069
+absence              0.0029
+growth               0.0003
+first                -0.0036
+lysine               -0.0039
+interrupted          -0.0043
+diabetic             -0.0068
+co                   -0.0076
+alanine              -0.0093
+depressed            -0.0095
+
+=====================================
+growth, t = 1994
+=====================================
+glycogen             0.0047
+absence              0.0015
+growth               -0.0017
+first                -0.0053
+lysine               -0.0057
+interrupted          -0.0063
+co                   -0.0078
+diabetic             -0.0093
+alanine              -0.0105
+depressed            -0.0118
+
+=====================================
+growth, t = 1995
+=====================================
+glycogen             0.0017
+absence              -0.0008
+growth               -0.0045
+first                -0.0081
+co                   -0.0084
+lysine               -0.0084
+interrupted          -0.0094
+alanine              -0.0127
+diabetic             -0.0130
+fto                  -0.0130
+
+=====================================
+growth, t = 1996
+=====================================
+glycogen             0.0016
+absence              -0.0012
+growth               -0.0048
+first                -0.0081
+co                   -0.0086
+lysine               -0.0090
+interrupted          -0.0099
+alanine              -0.0128
+fto                  -0.0133
+diabetic             -0.0135
+
+=====================================
+growth, t = 1997
+=====================================
+glycogen             0.0005
+absence              -0.0022
+growth               -0.0059
+co                   -0.0088
+first                -0.0090
+lysine               -0.0102
+interrupted          -0.0111
+fto                  -0.0136
+alanine              -0.0137
+medium               -0.0145
+
+=====================================
+growth, t = 1998
+=====================================
+glycogen             -0.0007
+absence              -0.0033
+growth               -0.0070
+co                   -0.0088
+first                -0.0099
+lysine               -0.0114
+interrupted          -0.0122
+fto                  -0.0136
+alanine              -0.0146
+leaves               -0.0149
+
+=====================================
+growth, t = 1999
+=====================================
+glycogen             -0.0018
+absence              -0.0044
+growth               -0.0082
+co                   -0.0089
+first                -0.0110
+lysine               -0.0126
+interrupted          -0.0132
+fto                  -0.0137
+leaves               -0.0146
+alanine              -0.0155
+
+=====================================
+growth, t = 2000
+=====================================
+glycogen             -0.0028
+absence              -0.0053
+growth               -0.0093
+co                   -0.0096
+first                -0.0121
+lysine               -0.0139
+fto                  -0.0141
+interrupted          -0.0148
+leaves               -0.0154
+alanine              -0.0164
+
+=====================================
+growth, t = 2001
+=====================================
+glycogen             -0.0039
+absence              -0.0062
+co                   -0.0105
+growth               -0.0105
+first                -0.0133
+fto                  -0.0148
+lysine               -0.0154
+leaves               -0.0164
+interrupted          -0.0166
+wild                 -0.0171
+
+=====================================
+growth, t = 2002
+=====================================
+glycogen             -0.0046
+absence              -0.0069
+co                   -0.0114
+growth               -0.0117
+first                -0.0142
+fto                  -0.0153
+lysine               -0.0165
+leaves               -0.0174
+wild                 -0.0178
+interrupted          -0.0180
+
+=====================================
+growth, t = 2003
+=====================================
+glycogen             -0.0049
+absence              -0.0070
+co                   -0.0118
+growth               -0.0119
+first                -0.0150
+fto                  -0.0157
+lysine               -0.0171
+wild                 -0.0178
+leaves               -0.0182
+medium               -0.0188
+
+=====================================
+growth, t = 2004
+=====================================
+glycogen             -0.0049
+absence              -0.0069
+growth               -0.0121
+co                   -0.0123
+first                -0.0154
+fto                  -0.0160
+lysine               -0.0175
+wild                 -0.0177
+leaves               -0.0187
+calvin               -0.0190
+
+=====================================
+growth, t = 2005
+=====================================
+glycogen             -0.0051
+absence              -0.0071
+growth               -0.0126
+co                   -0.0128
+first                -0.0158
+fto                  -0.0161
+wild                 -0.0177
+lysine               -0.0182
+leaves               -0.0190
+calvin               -0.0192
+
+=====================================
+growth, t = 2006
+=====================================
+glycogen             -0.0020
+absence              -0.0040
+growth               -0.0098
+first                -0.0120
+co                   -0.0121
+fto                  -0.0140
+wild                 -0.0155
+lysine               -0.0156
+alanine              -0.0163
+intensity            -0.0163
+
+=====================================
+growth, t = 2007
+=====================================
+glycogen             0.0024
+absence              0.0006
+growth               -0.0053
+first                -0.0061
+alanine              -0.0105
+interrupted          -0.0109
+intensity            -0.0109
+depressed            -0.0110
+co                   -0.0111
+fto                  -0.0113
+
+=====================================
+growth, t = 2008
+=====================================
+glycogen             -0.0044
+absence              -0.0078
+co                   -0.0124
+growth               -0.0131
+first                -0.0151
+fto                  -0.0153
+wild                 -0.0165
+leaves               -0.0182
+medium               -0.0185
+fructose             -0.0186
+
+=====================================
+growth, t = 2009
+=====================================
+glycogen             -0.0046
+absence              -0.0087
+co                   -0.0123
+growth               -0.0137
+fto                  -0.0154
+first                -0.0158
+wild                 -0.0160
+fructose             -0.0180
+leaves               -0.0180
+together             -0.0184
+
+=====================================
+growth, t = 2010
+=====================================
+glycogen             -0.0038
+absence              -0.0086
+co                   -0.0118
+growth               -0.0134
+fto                  -0.0148
+wild                 -0.0150
+first                -0.0157
+fructose             -0.0167
+leaves               -0.0172
+together             -0.0173
+
+=====================================
+growth, t = 2011
+=====================================
+glycogen             -0.0018
+absence              -0.0073
+co                   -0.0104
+growth               -0.0119
+wild                 -0.0122
+fto                  -0.0130
+first                -0.0140
+fructose             -0.0142
+together             -0.0147
+leaves               -0.0150
+
+=====================================
+growth, t = 2012
+=====================================
+glycogen             -0.0008
+absence              -0.0069
+co                   -0.0096
+wild                 -0.0104
+growth               -0.0114
+fto                  -0.0117
+fructose             -0.0123
+leaves               -0.0131
+first                -0.0134
+together             -0.0135
+
+=====================================
+growth, t = 2013
+=====================================
+glycogen             -0.0012
+absence              -0.0084
+co                   -0.0102
+wild                 -0.0105
+fructose             -0.0119
+fto                  -0.0122
+growth               -0.0130
+leaves               -0.0137
+together             -0.0142
+bond                 -0.0145
+
+=====================================
+growth, t = 2014
+=====================================
+glycogen             -0.0011
+absence              -0.0076
+wild                 -0.0097
+co                   -0.0097
+fto                  -0.0118
+fructose             -0.0120
+growth               -0.0122
+leaves               -0.0130
+together             -0.0137
+bond                 -0.0139
+
+=====================================
+growth, t = 2015
+=====================================
+glycogen             -0.0023
+absence              -0.0087
+co                   -0.0110
+wild                 -0.0112
+fructose             -0.0132
+fto                  -0.0133
+growth               -0.0134
+leaves               -0.0145
+first                -0.0149
+together             -0.0151
+
+=====================================
+growth, t = 2016
+=====================================
+glycogen             -0.0039
+absence              -0.0107
+co                   -0.0126
+wild                 -0.0130
+fructose             -0.0148
+fto                  -0.0149
+growth               -0.0152
+leaves               -0.0161
+first                -0.0167
+together             -0.0172
+
+=====================================
+growth, t = 2017
+=====================================
+glycogen             -0.0049
+absence              -0.0119
+co                   -0.0138
+wild                 -0.0142
+fructose             -0.0157
+fto                  -0.0163
+growth               -0.0163
+leaves               -0.0176
+first                -0.0178
+together             -0.0183
+
+=====================================
+growth, t = 2018
+=====================================
+glycogen             -0.0067
+absence              -0.0136
+co                   -0.0150
+wild                 -0.0157
+fto                  -0.0166
+fructose             -0.0176
+growth               -0.0189
+leaves               -0.0192
+first                -0.0196
+bond                 -0.0196
