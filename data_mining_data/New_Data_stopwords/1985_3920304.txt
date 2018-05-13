@@ -1,0 +1,1 @@
+ small segment chromosome 1, 12AB-12C, Drosophila melanogaster dosage-sensitive glycolytic enzyme pyruvate kinase (EC 2.7.1.40). suggest enzyme coded gene, Pyk+, located within region. activity enzyme developmental time also measured.

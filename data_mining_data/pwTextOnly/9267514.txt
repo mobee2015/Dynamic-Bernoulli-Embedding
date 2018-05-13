@@ -1,0 +1,1 @@
+Affinity labeling has proved to be a very useful tool for searching important amino acid residues located in active or allosteric sites of enzymes. In this article, the general principles and specific examples of the use of affinity labeling are discussed.

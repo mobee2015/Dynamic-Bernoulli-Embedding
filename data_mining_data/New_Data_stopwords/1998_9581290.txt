@@ -1,0 +1,1 @@
+ gene thermostable pyruvate kinase Microbispora thermodiastatica IFO 14046, moderate thermophilic actinomycete, cloned Escherichia coli. gene consists open reading frame 1422 nucleotides encodes protein 474 amino acids molecular mass 50,805 Da. open reading frame confirmed pyruvate kinase gene comparison N-terminal amino acid sequence purified pyruvate kinase M. thermodiastatica.

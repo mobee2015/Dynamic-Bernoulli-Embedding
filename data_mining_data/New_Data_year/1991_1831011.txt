@@ -1,0 +1,1 @@
+The pyruvate kinase assay for ATPases suffers from major systematic errors due to the variable amounts of the inhibitory product, ADP, present as the rates change. A simple method is presented to estimate the true uninhibited rates and the ADP inhibition constant for the ATPase.

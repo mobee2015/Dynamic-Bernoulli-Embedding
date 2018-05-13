@@ -1,0 +1,1 @@
+It is generally accepted that protein function depends on a defined 3D structure, with unfolding and aggregation dealing a final blow to functionality. A study now shows that the regulated exposure of an unstructured region in yeast pyruvate kinase triggers reversible aggregation to preserve protein function under stress.

@@ -1,32 +1,9 @@
-### Dynamic Bernoulli Embeddings for Language Evolution
+Dynamic embeddings can help identify the interesting ways that the human language changes. A word’s meaning can change in various ways, either it’s dominant meaning can change or its related subject matter can change. We use dynamic embeddings on a large biological dataset extracted from PubMed, which consists of abstracts from thousands of articles ranging from 1969-2018. We then analyze the data to see in what ways the words changed throughout the years.
 
-This repository contains scripts for running (dynamic) Bernoulli embeddings on text data.
-They have been run and tested on Linux. 
+INTRODUCTION
 
-To execute, go into the source folder (`src/`) and run 
-
-   ```python main.py --dynamic True --fpath [path/to/data]```
-
-substitute the path to the folder where you put the data for `[path/to/data]`.
-The data folder and files have to be structured in a specific format.
-For your convenience, we included some scripts that will help you preprocess the text data in `dat/src/`. For instructions on the required data format see `dat/README.md`.
-
-For all commandline options run:
-
-   ```python main.py --help```
-
-For fastest convergence we recommend the following 2-step training procedure.
-First run
-
-   ```python main.py --fpath [path/to/data]```
-
-This executes Bernoulli embeddings without dynamics. The scripts uses the current timestamp to create a folder where the results are saved ([path/to/results/]). We will use these results to initialize the dynamic embeddings:
-
-   ```python main.py --dynamic True --fpath [path/to/data] --init [path/to/result]/alpha_constant```
-
-Make sure to use the same `--K` for both runs.
-
-
-### Reference
-Maja Rudolph and David Blei, 2017. [Dynamic Bernoulli Embeddings for Language Evolution](https://arxiv.org/abs/1703.08052).
-arxiv preprint arxiv:1703.08052.
+Human language evolves over time, with word semantic associations changing over time due to changes in culture, new technological discoveries and certain political events. For example, apple which was traditionally only associated with fruits, is now mostly associated with a technology company. Similarly, the association of names of famous personalities (e.g., Trump) changes with a change in their roles. For this reason, understanding and tracking word evolution is useful for time-aware knowledge extraction tasks (e.g., public sentiment analysis), and other applications in text mining. By studying word evolution, we can infer language constructs over the many periods of human history.
+To this end, we aim to learn word embeddings with a temporal bent, for capturing time-aware meanings of words. Word embeddings aim to represent words with low-dimensional vectors, where words with similar semantics are geometrically closer (e.g. red and blue are closer than red and squirrel). They’re a collection of unsupervised learning methods for capturing latent semantic structure in language. Embedding methods can be used to analyze text data and learn distributed representations of the vocabulary. These representations are useful for reasoning about word usage and meaning. 
+In our work, we are interested in computing time-aware embedding of words. Specifically, each word in a different time frame (e.g., years) is represented by a different vector. From these embeddings, we have a better notion of “distance” (the cosine similarity between word embedding vectors), and by looking at word “neighborhoods” (defined through this distance), we can better understand word associations as well as word meanings, as they evolve over time. We use these embeddings to analyze a large dataset, PubMed, which comprises more than 28 million citations for biomedical literature.
+We compare the cosine similarity of the word vectors for same words in different years to identify words that have moved significantly in the vector space during that time period. The model additionally identifies words whose change is more subtle. We also analyze the yearly movement of words across the vector space to identify the specific periods during which they changed
+In more detail, a word embedding uses representation vectors to parameterize the conditional probabilities of words in the context of other words. Dynamic embeddings divide the documents into time slices, e.g., one per year, and cast the embedding vector as a latent variable that drifts via a Gaussian random walk. When fit to data, the dynamic embeddings capture how the representation of each word drifts from slice to slice.

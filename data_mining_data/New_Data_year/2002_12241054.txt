@@ -1,0 +1,1 @@
+A two-compartment kinetic model was used to describe reconstituted systems in which mitochondria compete with pyruvate kinase for kinase-generated ADP. The modelling suggests that cytosolic CK deficiency results in a 50% increase in outer mitochondrial membrane permeability.

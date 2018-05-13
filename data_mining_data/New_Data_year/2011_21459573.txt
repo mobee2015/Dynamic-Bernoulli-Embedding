@@ -1,0 +1,1 @@
+We report the use of a fragment-based lead discovery method, Tethering with extenders, to discover a pyridinone fragment that binds in an adaptive site of the protein PDK1. With subsequent medicinal chemistry, this led to the discovery of a potent and highly selective inhibitor of PDK1, which binds in the 'DFG-out' conformation.

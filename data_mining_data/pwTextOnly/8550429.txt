@@ -1,0 +1,1 @@
+Expression of a pykF-lacZ fusion was studied as a function of the carbon source in wild-type strains and strains lacking or overproducing the FruR protein of Escherichia coli. FruR controls the response to the carbon source by repressing pykF expression more strongly under gluconeogenic than under glycolytic conditions, a phenomenon we term catabolite activation.

@@ -1,0 +1,1 @@
+Tumor cells manage their energy to support aberrant proliferation by reprogramming their cellular metabolism, for example through the Warburg effect. Although AMPK is a major regulator of energy homeostasis, its role in cancer metabolic adaptation is unclear. We recently identified the tumor suppressor folliculin as a new regulator of AMPK-dependent metabolic transformation.

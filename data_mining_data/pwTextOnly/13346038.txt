@@ -1,0 +1,1 @@
+Pyruvate kinase and phosphoenolpyruvate, added to actomyosin, cause a maintenance of the response of the actomyosin to stoichiometric amounts of ATP. This steady state maintenance depends on the presence of Mg ions.

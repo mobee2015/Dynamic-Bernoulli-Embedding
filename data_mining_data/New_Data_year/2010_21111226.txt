@@ -1,0 +1,1 @@
+Cancer cells metabolize glucose by aerobic glycolysis, a phenomenon known as the Warburg effect. Fang et al. (2010) show that the endoplasmic reticulum enzyme ENTPD5 promotes ATP consumption and favors aerobic glycolysis. The findings suggest that nutrient uptake in cancer cells is limited by ATP and satisfies energy requirements other than ATP production.

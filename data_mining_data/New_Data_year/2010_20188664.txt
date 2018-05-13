@@ -1,0 +1,1 @@
+In this issue of Molecular Cell, Hoshi et al. (2010) report two examples in which small molecule inhibitors are rendered ineffective when their kinase targets are involved in protein-protein interactions, highlighting differences between in vivo and in vitro inhibition kinetics.

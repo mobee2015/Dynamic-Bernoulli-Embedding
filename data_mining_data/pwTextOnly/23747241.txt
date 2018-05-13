@@ -1,0 +1,1 @@
+A hypoxic microenvironment can enhance the function of innate immune cells; however, the mechanisms remain unclear. Tannahill et al. (2013) find that in macrophages, the accumulation of succinate, an intermediate metabolite of the tricarboxylic acid cycle, stabilizes the transcription factor HIF-1alpha, leading to activation of the proinflammatory cytokine IL-1beta.

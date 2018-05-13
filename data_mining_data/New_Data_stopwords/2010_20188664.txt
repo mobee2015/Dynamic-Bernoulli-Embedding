@@ -1,0 +1,1 @@
+ issue Molecular Cell, Hoshi et al. (2010) report two examples small molecule inhibitors rendered ineffective kinase targets involved protein-protein interactions, highlighting differences vivo vitro inhibition kinetics.

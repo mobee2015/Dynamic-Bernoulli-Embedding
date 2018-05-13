@@ -1,0 +1,1 @@
+The transcription factor hypoxia-inducible factor 1 (HIF1) facilitates the induction of enzymes necessary for anaerobic glycolysis. Luo et al. (2011) now identify pyruvate kinase (PK)-M2 as an intriguing new interacting partner for HIF1, revealing a potential mechanism for the Warburg effect, an elevation in aerobic glycolytic metabolism frequently observed in cancer.
