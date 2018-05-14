@@ -1,0 +1,204 @@
+embeddings {
+  tensor_name: "model/embeddings/alpha"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_0"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_1"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_2"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_3"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_4"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_5"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_6"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_7"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_8"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_9"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_10"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_11"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_12"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_13"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_14"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_15"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_16"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_17"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_18"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_19"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_20"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_21"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_22"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_23"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_24"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_25"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_26"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_27"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_28"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_29"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_30"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_31"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_32"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_33"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_34"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_35"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_36"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_37"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_38"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_39"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_40"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_41"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_42"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_43"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_44"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_45"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_46"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_47"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_48"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho_49"
+  metadata_path: "../vocab.tsv"
+}

@@ -1,0 +1,701 @@
+
+
+=====================================
+lactate, t = 1969
+=====================================
+reticulocytosis      0.0391
+detect               0.0333
+myopathic            0.0306
+citrate              0.0242
+formula              0.0227
+plasma               0.0175
+enterocytes          0.0165
+erythrocyte          0.0163
+lactate              0.0151
+estimates            0.0144
+
+=====================================
+lactate, t = 1970
+=====================================
+reticulocytosis      0.0390
+detect               0.0338
+myopathic            0.0309
+citrate              0.0241
+formula              0.0226
+plasma               0.0175
+erythrocyte          0.0161
+enterocytes          0.0159
+lactate              0.0154
+estimates            0.0145
+
+=====================================
+lactate, t = 1971
+=====================================
+reticulocytosis      0.0411
+detect               0.0349
+myopathic            0.0332
+citrate              0.0268
+formula              0.0252
+plasma               0.0196
+enterocytes          0.0191
+lactate              0.0176
+erythrocyte          0.0174
+estimates            0.0162
+
+=====================================
+lactate, t = 1972
+=====================================
+reticulocytosis      0.0444
+detect               0.0379
+myopathic            0.0376
+citrate              0.0311
+formula              0.0300
+plasma               0.0236
+enterocytes          0.0236
+lactate              0.0210
+estimates            0.0196
+erythrocyte          0.0195
+
+=====================================
+lactate, t = 1973
+=====================================
+reticulocytosis      0.0430
+myopathic            0.0364
+detect               0.0363
+citrate              0.0308
+formula              0.0289
+plasma               0.0237
+enterocytes          0.0233
+lactate              0.0212
+estimates            0.0194
+erythrocyte          0.0182
+
+=====================================
+lactate, t = 1974
+=====================================
+reticulocytosis      0.0412
+myopathic            0.0347
+detect               0.0343
+citrate              0.0301
+formula              0.0272
+plasma               0.0234
+enterocytes          0.0225
+lactate              0.0213
+estimates            0.0186
+malate               0.0180
+
+=====================================
+lactate, t = 1975
+=====================================
+reticulocytosis      0.0392
+myopathic            0.0326
+detect               0.0322
+citrate              0.0292
+formula              0.0253
+plasma               0.0228
+enterocytes          0.0214
+lactate              0.0209
+malate               0.0174
+estimates            0.0173
+
+=====================================
+lactate, t = 1976
+=====================================
+reticulocytosis      0.0378
+myopathic            0.0311
+detect               0.0303
+citrate              0.0292
+formula              0.0245
+plasma               0.0221
+enterocytes          0.0212
+lactate              0.0208
+malate               0.0176
+malic                0.0175
+
+=====================================
+lactate, t = 1977
+=====================================
+reticulocytosis      0.0359
+myopathic            0.0291
+citrate              0.0283
+detect               0.0282
+formula              0.0231
+plasma               0.0208
+enterocytes          0.0203
+lactate              0.0200
+malic                0.0170
+malate               0.0168
+
+=====================================
+lactate, t = 1978
+=====================================
+reticulocytosis      0.0334
+citrate              0.0271
+myopathic            0.0267
+detect               0.0257
+formula              0.0215
+plasma               0.0195
+enterocytes          0.0192
+lactate              0.0191
+malic                0.0160
+malate               0.0158
+
+=====================================
+lactate, t = 1979
+=====================================
+reticulocytosis      0.0311
+citrate              0.0261
+myopathic            0.0244
+detect               0.0230
+formula              0.0199
+plasma               0.0185
+lactate              0.0185
+enterocytes          0.0183
+malic                0.0150
+malate               0.0149
+
+=====================================
+lactate, t = 1980
+=====================================
+reticulocytosis      0.0307
+citrate              0.0288
+myopathic            0.0249
+lactate              0.0213
+formula              0.0212
+detect               0.0212
+plasma               0.0209
+enterocytes          0.0207
+malate               0.0175
+malic                0.0172
+
+=====================================
+lactate, t = 1981
+=====================================
+citrate              0.0344
+reticulocytosis      0.0331
+myopathic            0.0292
+lactate              0.0272
+enterocytes          0.0269
+formula              0.0259
+plasma               0.0253
+malic                0.0236
+malate               0.0233
+detect               0.0218
+
+=====================================
+lactate, t = 1982
+=====================================
+reticulocytosis      0.0240
+citrate              0.0232
+myopathic            0.0180
+lactate              0.0175
+plasma               0.0166
+enterocytes          0.0159
+formula              0.0154
+detect               0.0150
+malate               0.0126
+malic                0.0116
+
+=====================================
+lactate, t = 1983
+=====================================
+reticulocytosis      0.0209
+citrate              0.0205
+lactate              0.0148
+plasma               0.0145
+myopathic            0.0142
+enterocytes          0.0131
+formula              0.0122
+detect               0.0121
+malate               0.0096
+malic                0.0083
+
+=====================================
+lactate, t = 1984
+=====================================
+citrate              0.0195
+reticulocytosis      0.0186
+lactate              0.0141
+plasma               0.0138
+enterocytes          0.0121
+myopathic            0.0117
+formula              0.0102
+detect               0.0092
+malate               0.0085
+malic                0.0071
+
+=====================================
+lactate, t = 1985
+=====================================
+citrate              0.0169
+reticulocytosis      0.0149
+lactate              0.0118
+plasma               0.0116
+enterocytes          0.0094
+myopathic            0.0074
+formula              0.0068
+malate               0.0058
+detect               0.0051
+malic                0.0039
+
+=====================================
+lactate, t = 1986
+=====================================
+citrate              0.0199
+reticulocytosis      0.0168
+plasma               0.0149
+lactate              0.0146
+enterocytes          0.0135
+myopathic            0.0100
+formula              0.0096
+malate               0.0088
+malic                0.0071
+detect               0.0059
+
+=====================================
+lactate, t = 1987
+=====================================
+citrate              0.0198
+reticulocytosis      0.0156
+plasma               0.0151
+lactate              0.0145
+enterocytes          0.0137
+formula              0.0090
+myopathic            0.0090
+malate               0.0087
+malic                0.0069
+detect               0.0042
+
+=====================================
+lactate, t = 1988
+=====================================
+citrate              0.0192
+plasma               0.0147
+reticulocytosis      0.0140
+lactate              0.0138
+enterocytes          0.0133
+malate               0.0081
+formula              0.0078
+myopathic            0.0072
+malic                0.0062
+phosphate            0.0025
+
+=====================================
+lactate, t = 1989
+=====================================
+citrate              0.0201
+plasma               0.0160
+enterocytes          0.0154
+reticulocytosis      0.0137
+lactate              0.0130
+malate               0.0103
+formula              0.0097
+malic                0.0073
+myopathic            0.0073
+phosphate            0.0042
+
+=====================================
+lactate, t = 1990
+=====================================
+citrate              0.0185
+plasma               0.0133
+enterocytes          0.0131
+lactate              0.0126
+reticulocytosis      0.0114
+malate               0.0078
+malic                0.0060
+formula              0.0060
+myopathic            0.0045
+phosphate            0.0032
+
+=====================================
+lactate, t = 1991
+=====================================
+citrate              0.0205
+enterocytes          0.0161
+plasma               0.0150
+lactate              0.0138
+reticulocytosis      0.0128
+malate               0.0099
+malic                0.0082
+formula              0.0079
+myopathic            0.0062
+phosphate            0.0050
+
+=====================================
+lactate, t = 1992
+=====================================
+citrate              0.0221
+enterocytes          0.0184
+plasma               0.0164
+lactate              0.0143
+reticulocytosis      0.0138
+malate               0.0115
+malic                0.0097
+formula              0.0089
+myopathic            0.0071
+phosphate            0.0063
+
+=====================================
+lactate, t = 1993
+=====================================
+citrate              0.0237
+enterocytes          0.0204
+plasma               0.0171
+lactate              0.0148
+reticulocytosis      0.0146
+malate               0.0133
+malic                0.0116
+formula              0.0102
+phosphate            0.0089
+myopathic            0.0081
+
+=====================================
+lactate, t = 1994
+=====================================
+citrate              0.0221
+enterocytes          0.0191
+plasma               0.0156
+lactate              0.0143
+reticulocytosis      0.0130
+malate               0.0128
+malic                0.0112
+phosphate            0.0089
+formula              0.0088
+snap                 0.0074
+
+=====================================
+lactate, t = 1995
+=====================================
+citrate              0.0172
+enterocytes          0.0137
+plasma               0.0110
+lactate              0.0108
+malate               0.0087
+reticulocytosis      0.0083
+malic                0.0073
+phosphate            0.0068
+snap                 0.0044
+pyruvate             0.0040
+
+=====================================
+lactate, t = 1996
+=====================================
+citrate              0.0134
+enterocytes          0.0095
+lactate              0.0081
+plasma               0.0075
+malate               0.0055
+phosphate            0.0050
+reticulocytosis      0.0047
+malic                0.0042
+snap                 0.0023
+pyruvate             0.0012
+
+=====================================
+lactate, t = 1997
+=====================================
+citrate              0.0111
+enterocytes          0.0071
+lactate              0.0063
+plasma               0.0048
+phosphate            0.0045
+malate               0.0041
+malic                0.0029
+reticulocytosis      0.0025
+snap                 0.0017
+pyruvate             -0.0001
+
+=====================================
+lactate, t = 1998
+=====================================
+citrate              0.0091
+enterocytes          0.0053
+lactate              0.0046
+phosphate            0.0038
+malate               0.0027
+plasma               0.0026
+malic                0.0015
+snap                 0.0013
+reticulocytosis      0.0008
+pyruvate             -0.0013
+
+=====================================
+lactate, t = 1999
+=====================================
+citrate              0.0069
+enterocytes          0.0031
+phosphate            0.0028
+lactate              0.0025
+malate               0.0011
+snap                 0.0006
+plasma               0.0001
+malic                -0.0004
+reticulocytosis      -0.0012
+pyruvate             -0.0032
+
+=====================================
+lactate, t = 2000
+=====================================
+citrate              0.0050
+phosphate            0.0018
+enterocytes          0.0012
+lactate              0.0007
+malate               -0.0005
+snap                 -0.0006
+plasma               -0.0017
+malic                -0.0020
+reticulocytosis      -0.0028
+phosphoglycerate     -0.0046
+
+=====================================
+lactate, t = 2001
+=====================================
+citrate              0.0026
+phosphate            0.0007
+lactate              -0.0012
+enterocytes          -0.0013
+snap                 -0.0021
+malate               -0.0025
+malic                -0.0038
+plasma               -0.0041
+reticulocytosis      -0.0051
+phosphoglycerate     -0.0060
+
+=====================================
+lactate, t = 2002
+=====================================
+citrate              0.0006
+phosphate            -0.0002
+lactate              -0.0027
+snap                 -0.0032
+enterocytes          -0.0032
+malate               -0.0039
+malic                -0.0052
+plasma               -0.0059
+phosphoglycerate     -0.0070
+reticulocytosis      -0.0071
+
+=====================================
+lactate, t = 2003
+=====================================
+phosphate            -0.0014
+citrate              -0.0015
+lactate              -0.0044
+snap                 -0.0046
+enterocytes          -0.0053
+malate               -0.0056
+malic                -0.0068
+plasma               -0.0079
+phosphoglycerate     -0.0082
+pyruvate             -0.0087
+
+=====================================
+lactate, t = 2004
+=====================================
+phosphate            -0.0030
+citrate              -0.0043
+snap                 -0.0066
+lactate              -0.0066
+malate               -0.0076
+enterocytes          -0.0082
+malic                -0.0091
+phosphoglycerate     -0.0101
+plasma               -0.0104
+pyruvate             -0.0104
+
+=====================================
+lactate, t = 2005
+=====================================
+phosphate            -0.0045
+citrate              -0.0070
+snap                 -0.0088
+lactate              -0.0088
+malate               -0.0098
+enterocytes          -0.0111
+malic                -0.0114
+phosphoglycerate     -0.0120
+pyruvate             -0.0121
+plasma               -0.0128
+
+=====================================
+lactate, t = 2006
+=====================================
+phosphate            -0.0062
+citrate              -0.0091
+snap                 -0.0103
+lactate              -0.0103
+malate               -0.0114
+enterocytes          -0.0131
+pyruvate             -0.0133
+malic                -0.0133
+phosphoglycerate     -0.0134
+plasma               -0.0145
+
+=====================================
+lactate, t = 2007
+=====================================
+phosphate            -0.0072
+citrate              -0.0103
+lactate              -0.0110
+snap                 -0.0113
+malate               -0.0121
+pyruvate             -0.0139
+enterocytes          -0.0141
+phosphoglycerate     -0.0142
+malic                -0.0146
+plasma               -0.0153
+
+=====================================
+lactate, t = 2008
+=====================================
+phosphate            -0.0078
+citrate              -0.0115
+lactate              -0.0119
+snap                 -0.0120
+malate               -0.0127
+pyruvate             -0.0146
+phosphoglycerate     -0.0148
+enterocytes          -0.0153
+malic                -0.0156
+plasma               -0.0164
+
+=====================================
+lactate, t = 2009
+=====================================
+phosphate            -0.0084
+citrate              -0.0123
+lactate              -0.0125
+snap                 -0.0127
+malate               -0.0131
+pyruvate             -0.0149
+phosphoglycerate     -0.0152
+enterocytes          -0.0160
+malic                -0.0164
+rat                  -0.0168
+
+=====================================
+lactate, t = 2010
+=====================================
+phosphate            -0.0092
+lactate              -0.0133
+citrate              -0.0133
+snap                 -0.0135
+malate               -0.0139
+pyruvate             -0.0156
+phosphoglycerate     -0.0159
+enterocytes          -0.0169
+rat                  -0.0172
+malic                -0.0173
+
+=====================================
+lactate, t = 2011
+=====================================
+phosphate            -0.0100
+lactate              -0.0137
+citrate              -0.0138
+snap                 -0.0140
+malate               -0.0146
+pyruvate             -0.0160
+phosphoglycerate     -0.0164
+rat                  -0.0174
+enterocytes          -0.0175
+malic                -0.0180
+
+=====================================
+lactate, t = 2012
+=====================================
+phosphate            -0.0108
+lactate              -0.0145
+citrate              -0.0147
+snap                 -0.0147
+malate               -0.0154
+pyruvate             -0.0167
+phosphoglycerate     -0.0171
+rat                  -0.0179
+enterocytes          -0.0184
+glutamate            -0.0188
+
+=====================================
+lactate, t = 2013
+=====================================
+phosphate            -0.0116
+lactate              -0.0153
+snap                 -0.0155
+citrate              -0.0156
+malate               -0.0163
+pyruvate             -0.0174
+phosphoglycerate     -0.0178
+rat                  -0.0185
+enterocytes          -0.0195
+glutamate            -0.0195
+
+=====================================
+lactate, t = 2014
+=====================================
+phosphate            -0.0123
+lactate              -0.0161
+snap                 -0.0162
+citrate              -0.0165
+malate               -0.0171
+pyruvate             -0.0181
+phosphoglycerate     -0.0184
+rat                  -0.0191
+glutamate            -0.0202
+enterocytes          -0.0206
+
+=====================================
+lactate, t = 2015
+=====================================
+phosphate            -0.0126
+snap                 -0.0165
+lactate              -0.0166
+citrate              -0.0169
+malate               -0.0176
+pyruvate             -0.0186
+phosphoglycerate     -0.0188
+rat                  -0.0194
+glutamate            -0.0206
+malic                -0.0211
+
+=====================================
+lactate, t = 2016
+=====================================
+phosphate            -0.0128
+lactate              -0.0164
+snap                 -0.0164
+citrate              -0.0167
+malate               -0.0174
+pyruvate             -0.0186
+phosphoglycerate     -0.0189
+rat                  -0.0191
+plasma               -0.0208
+glutamate            -0.0209
+
+=====================================
+lactate, t = 2017
+=====================================
+phosphate            -0.0100
+lactate              -0.0121
+malate               -0.0122
+snap                 -0.0123
+citrate              -0.0126
+rat                  -0.0145
+plasma               -0.0158
+pyruvate             -0.0160
+enterocytes          -0.0163
+phosphoglycerate     -0.0168
+
+=====================================
+lactate, t = 2018
+=====================================
+malate               -0.0067
+phosphate            -0.0072
+lactate              -0.0073
+snap                 -0.0082
+citrate              -0.0084
+rat                  -0.0092
+plasma               -0.0111
+enterocytes          -0.0115
+h                    -0.0125
+phosphogluconate     -0.0135

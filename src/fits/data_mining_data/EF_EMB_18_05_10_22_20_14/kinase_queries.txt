@@ -1,0 +1,701 @@
+
+
+=====================================
+kinase, t = 1969
+=====================================
+framework            0.0552
+approaches           0.0500
+fto                  0.0472
+tetrameric           0.0306
+charge               0.0272
+pleiotropic          0.0253
+interaction          0.0222
+labile               0.0215
+detergent            0.0213
+seem                 0.0208
+
+=====================================
+kinase, t = 1970
+=====================================
+framework            0.0581
+approaches           0.0527
+fto                  0.0494
+tetrameric           0.0336
+charge               0.0296
+pleiotropic          0.0283
+labile               0.0253
+interaction          0.0249
+detergent            0.0244
+seem                 0.0238
+
+=====================================
+kinase, t = 1971
+=====================================
+framework            0.0604
+approaches           0.0548
+fto                  0.0513
+tetrameric           0.0359
+charge               0.0315
+pleiotropic          0.0306
+labile               0.0280
+interaction          0.0270
+detergent            0.0269
+maximally            0.0260
+
+=====================================
+kinase, t = 1972
+=====================================
+framework            0.0628
+approaches           0.0565
+fto                  0.0532
+tetrameric           0.0381
+pleiotropic          0.0330
+charge               0.0320
+labile               0.0312
+detergent            0.0297
+maximally            0.0291
+interaction          0.0281
+
+=====================================
+kinase, t = 1973
+=====================================
+framework            0.0647
+approaches           0.0580
+fto                  0.0547
+tetrameric           0.0404
+pleiotropic          0.0350
+labile               0.0341
+charge               0.0324
+detergent            0.0320
+maximally            0.0314
+streptococci         0.0291
+
+=====================================
+kinase, t = 1974
+=====================================
+framework            0.0659
+approaches           0.0593
+fto                  0.0559
+tetrameric           0.0421
+labile               0.0367
+pleiotropic          0.0365
+detergent            0.0342
+maximally            0.0328
+charge               0.0328
+streptococci         0.0315
+
+=====================================
+kinase, t = 1975
+=====================================
+framework            0.0648
+approaches           0.0579
+fto                  0.0549
+tetrameric           0.0417
+labile               0.0369
+pleiotropic          0.0349
+detergent            0.0338
+maximally            0.0333
+charge               0.0311
+streptococci         0.0310
+
+=====================================
+kinase, t = 1976
+=====================================
+framework            0.0640
+approaches           0.0572
+fto                  0.0546
+tetrameric           0.0416
+labile               0.0377
+maximally            0.0343
+pleiotropic          0.0343
+detergent            0.0342
+streptococci         0.0314
+proceeds             0.0307
+
+=====================================
+kinase, t = 1977
+=====================================
+framework            0.0640
+approaches           0.0569
+fto                  0.0540
+tetrameric           0.0438
+labile               0.0399
+maximally            0.0364
+pleiotropic          0.0359
+detergent            0.0354
+proceeds             0.0340
+streptococci         0.0340
+
+=====================================
+kinase, t = 1978
+=====================================
+framework            0.0621
+approaches           0.0557
+fto                  0.0546
+tetrameric           0.0409
+labile               0.0374
+maximally            0.0344
+detergent            0.0340
+pleiotropic          0.0336
+streptococci         0.0315
+proceeds             0.0302
+
+=====================================
+kinase, t = 1979
+=====================================
+framework            0.0600
+fto                  0.0540
+approaches           0.0539
+tetrameric           0.0393
+labile               0.0354
+maximally            0.0327
+detergent            0.0323
+pleiotropic          0.0320
+streptococci         0.0297
+chloroplastic        0.0281
+
+=====================================
+kinase, t = 1980
+=====================================
+framework            0.0565
+fto                  0.0522
+approaches           0.0511
+tetrameric           0.0369
+labile               0.0323
+maximally            0.0302
+detergent            0.0295
+pleiotropic          0.0294
+streptococci         0.0269
+proceeds             0.0255
+
+=====================================
+kinase, t = 1981
+=====================================
+framework            0.0524
+fto                  0.0494
+approaches           0.0473
+tetrameric           0.0342
+labile               0.0283
+maximally            0.0266
+detergent            0.0260
+pleiotropic          0.0254
+phosphorylating      0.0230
+streptococci         0.0225
+
+=====================================
+kinase, t = 1982
+=====================================
+framework            0.0523
+fto                  0.0497
+approaches           0.0470
+tetrameric           0.0373
+labile               0.0313
+detergent            0.0290
+maximally            0.0287
+pleiotropic          0.0282
+phosphorylating      0.0262
+streptococci         0.0259
+
+=====================================
+kinase, t = 1983
+=====================================
+framework            0.0523
+fto                  0.0505
+approaches           0.0469
+tetrameric           0.0374
+labile               0.0320
+maximally            0.0301
+detergent            0.0299
+pleiotropic          0.0272
+phosphorylating      0.0271
+streptococci         0.0260
+
+=====================================
+kinase, t = 1984
+=====================================
+framework            0.0535
+fto                  0.0526
+approaches           0.0479
+tetrameric           0.0402
+labile               0.0351
+maximally            0.0331
+detergent            0.0327
+phosphorylating      0.0299
+pleiotropic          0.0288
+streptococci         0.0287
+
+=====================================
+kinase, t = 1985
+=====================================
+framework            0.0525
+fto                  0.0524
+approaches           0.0479
+tetrameric           0.0415
+labile               0.0340
+maximally            0.0317
+detergent            0.0309
+phosphorylating      0.0299
+streptococci         0.0287
+pleiotropic          0.0285
+
+=====================================
+kinase, t = 1986
+=====================================
+fto                  0.0444
+framework            0.0420
+approaches           0.0378
+tetrameric           0.0308
+labile               0.0220
+phosphorylating      0.0216
+maximally            0.0213
+detergent            0.0206
+proceeds             0.0179
+pleiotropic          0.0159
+
+=====================================
+kinase, t = 1987
+=====================================
+fto                  0.0427
+framework            0.0389
+approaches           0.0347
+tetrameric           0.0284
+phosphorylating      0.0196
+labile               0.0189
+maximally            0.0185
+detergent            0.0178
+proceeds             0.0154
+chloroplastic        0.0124
+
+=====================================
+kinase, t = 1988
+=====================================
+fto                  0.0412
+framework            0.0364
+approaches           0.0327
+tetrameric           0.0274
+phosphorylating      0.0183
+labile               0.0175
+maximally            0.0169
+detergent            0.0161
+proceeds             0.0138
+feline               0.0115
+
+=====================================
+kinase, t = 1989
+=====================================
+fto                  0.0386
+framework            0.0330
+approaches           0.0293
+tetrameric           0.0257
+phosphorylating      0.0162
+labile               0.0153
+maximally            0.0146
+detergent            0.0131
+proceeds             0.0115
+feline               0.0106
+
+=====================================
+kinase, t = 1990
+=====================================
+fto                  0.0388
+framework            0.0331
+approaches           0.0291
+tetrameric           0.0269
+phosphorylating      0.0176
+labile               0.0176
+maximally            0.0164
+detergent            0.0141
+proceeds             0.0139
+feline               0.0136
+
+=====================================
+kinase, t = 1991
+=====================================
+fto                  0.0331
+framework            0.0269
+approaches           0.0226
+tetrameric           0.0224
+maximally            0.0121
+labile               0.0119
+phosphorylating      0.0118
+feline               0.0106
+detergent            0.0084
+scenario             0.0065
+
+=====================================
+kinase, t = 1992
+=====================================
+fto                  0.0321
+framework            0.0255
+tetrameric           0.0214
+approaches           0.0208
+maximally            0.0124
+feline               0.0115
+labile               0.0112
+phosphorylating      0.0105
+detergent            0.0076
+peroxides            0.0063
+
+=====================================
+kinase, t = 1993
+=====================================
+fto                  0.0363
+framework            0.0295
+approaches           0.0248
+tetrameric           0.0247
+maximally            0.0159
+feline               0.0157
+labile               0.0148
+phosphorylating      0.0137
+peroxides            0.0135
+detergent            0.0113
+
+=====================================
+kinase, t = 1994
+=====================================
+fto                  0.0351
+framework            0.0265
+tetrameric           0.0234
+approaches           0.0225
+labile               0.0145
+phosphorylating      0.0144
+maximally            0.0138
+feline               0.0101
+detergent            0.0095
+peroxides            0.0089
+
+=====================================
+kinase, t = 1995
+=====================================
+fto                  0.0261
+framework            0.0180
+tetrameric           0.0142
+approaches           0.0129
+maximally            0.0052
+phosphorylating      0.0050
+feline               0.0034
+labile               0.0029
+detergent            -0.0001
+scenario             -0.0009
+
+=====================================
+kinase, t = 1996
+=====================================
+fto                  0.0250
+framework            0.0172
+tetrameric           0.0137
+approaches           0.0124
+maximally            0.0061
+phosphorylating      0.0056
+feline               0.0047
+labile               0.0029
+scenario             0.0016
+detergent            0.0007
+
+=====================================
+kinase, t = 1997
+=====================================
+fto                  0.0218
+framework            0.0129
+tetrameric           0.0092
+approaches           0.0073
+maximally            0.0005
+phosphorylating      -0.0001
+feline               -0.0007
+labile               -0.0034
+scenario             -0.0048
+heterogeneous        -0.0048
+
+=====================================
+kinase, t = 1998
+=====================================
+fto                  0.0204
+framework            0.0110
+tetrameric           0.0078
+approaches           0.0049
+maximally            -0.0010
+phosphorylating      -0.0021
+feline               -0.0026
+labile               -0.0053
+heterogeneous        -0.0059
+discussed            -0.0061
+
+=====================================
+kinase, t = 1999
+=====================================
+fto                  0.0189
+framework            0.0092
+tetrameric           0.0066
+approaches           0.0029
+maximally            -0.0019
+phosphorylating      -0.0039
+feline               -0.0041
+discussed            -0.0064
+phosphoglycerate     -0.0067
+labile               -0.0067
+
+=====================================
+kinase, t = 2000
+=====================================
+fto                  0.0184
+framework            0.0091
+tetrameric           0.0070
+approaches           0.0026
+maximally            -0.0013
+phosphorylating      -0.0033
+feline               -0.0042
+discussed            -0.0054
+labile               -0.0059
+phosphoglycerate     -0.0062
+
+=====================================
+kinase, t = 2001
+=====================================
+fto                  0.0164
+framework            0.0077
+tetrameric           0.0058
+approaches           0.0006
+maximally            -0.0022
+phosphorylating      -0.0044
+feline               -0.0057
+discussed            -0.0057
+phosphoglycerate     -0.0068
+labile               -0.0071
+
+=====================================
+kinase, t = 2002
+=====================================
+fto                  0.0130
+framework            0.0048
+tetrameric           0.0029
+approaches           -0.0032
+maximally            -0.0047
+discussed            -0.0074
+phosphorylating      -0.0075
+phosphoglycerate     -0.0088
+feline               -0.0089
+labile               -0.0101
+
+=====================================
+kinase, t = 2003
+=====================================
+fto                  0.0105
+framework            0.0029
+tetrameric           0.0008
+approaches           -0.0057
+maximally            -0.0065
+discussed            -0.0080
+phosphorylating      -0.0094
+phosphoglycerate     -0.0096
+feline               -0.0109
+dibutyryl            -0.0110
+
+=====================================
+kinase, t = 2004
+=====================================
+fto                  0.0078
+framework            0.0005
+tetrameric           -0.0016
+approaches           -0.0085
+maximally            -0.0088
+discussed            -0.0091
+phosphoglycerate     -0.0107
+phosphorylating      -0.0118
+phosphate            -0.0123
+dibutyryl            -0.0126
+
+=====================================
+kinase, t = 2005
+=====================================
+fto                  0.0061
+framework            -0.0010
+tetrameric           -0.0033
+discussed            -0.0093
+maximally            -0.0100
+approaches           -0.0102
+phosphoglycerate     -0.0108
+phosphate            -0.0119
+phosphorylating      -0.0131
+dibutyryl            -0.0134
+
+=====================================
+kinase, t = 2006
+=====================================
+fto                  0.0055
+framework            -0.0015
+tetrameric           -0.0042
+discussed            -0.0082
+phosphoglycerate     -0.0098
+maximally            -0.0103
+phosphate            -0.0104
+approaches           -0.0107
+dibutyryl            -0.0129
+phosphorylating      -0.0138
+
+=====================================
+kinase, t = 2007
+=====================================
+fto                  0.0045
+framework            -0.0022
+tetrameric           -0.0048
+discussed            -0.0074
+phosphoglycerate     -0.0089
+phosphate            -0.0090
+maximally            -0.0100
+approaches           -0.0116
+dibutyryl            -0.0127
+feline               -0.0142
+
+=====================================
+kinase, t = 2008
+=====================================
+fto                  0.0028
+framework            -0.0041
+tetrameric           -0.0069
+discussed            -0.0085
+phosphate            -0.0094
+phosphoglycerate     -0.0100
+maximally            -0.0117
+approaches           -0.0136
+dibutyryl            -0.0139
+nad                  -0.0159
+
+=====================================
+kinase, t = 2009
+=====================================
+fto                  0.0018
+framework            -0.0049
+tetrameric           -0.0081
+phosphate            -0.0097
+discussed            -0.0099
+phosphoglycerate     -0.0114
+maximally            -0.0130
+approaches           -0.0147
+dibutyryl            -0.0149
+calvin               -0.0162
+
+=====================================
+kinase, t = 2010
+=====================================
+fto                  0.0016
+framework            -0.0047
+tetrameric           -0.0080
+phosphate            -0.0091
+discussed            -0.0102
+phosphoglycerate     -0.0118
+maximally            -0.0130
+approaches           -0.0148
+dibutyryl            -0.0151
+calvin               -0.0154
+
+=====================================
+kinase, t = 2011
+=====================================
+fto                  0.0003
+framework            -0.0059
+tetrameric           -0.0091
+phosphate            -0.0099
+discussed            -0.0117
+phosphoglycerate     -0.0132
+maximally            -0.0142
+calvin               -0.0160
+dibutyryl            -0.0163
+approaches           -0.0164
+
+=====================================
+kinase, t = 2012
+=====================================
+fto                  -0.0001
+framework            -0.0059
+tetrameric           -0.0090
+phosphate            -0.0097
+discussed            -0.0117
+phosphoglycerate     -0.0134
+maximally            -0.0141
+calvin               -0.0158
+dibutyryl            -0.0162
+approaches           -0.0167
+
+=====================================
+kinase, t = 2013
+=====================================
+fto                  -0.0007
+framework            -0.0059
+tetrameric           -0.0091
+phosphate            -0.0093
+discussed            -0.0114
+phosphoglycerate     -0.0134
+maximally            -0.0137
+calvin               -0.0157
+dibutyryl            -0.0158
+nad                  -0.0164
+
+=====================================
+kinase, t = 2014
+=====================================
+fto                  0.0004
+framework            -0.0043
+tetrameric           -0.0070
+phosphate            -0.0080
+discussed            -0.0094
+maximally            -0.0108
+phosphoglycerate     -0.0117
+dibutyryl            -0.0130
+calvin               -0.0142
+nad                  -0.0149
+
+=====================================
+kinase, t = 2015
+=====================================
+fto                  0.0039
+framework            0.0006
+tetrameric           -0.0020
+maximally            -0.0046
+phosphate            -0.0055
+discussed            -0.0060
+dibutyryl            -0.0069
+phosphoglycerate     -0.0082
+feline               -0.0106
+approaches           -0.0108
+
+=====================================
+kinase, t = 2016
+=====================================
+fto                  -0.0015
+framework            -0.0052
+tetrameric           -0.0069
+phosphate            -0.0090
+discussed            -0.0095
+maximally            -0.0100
+phosphoglycerate     -0.0115
+dibutyryl            -0.0130
+calvin               -0.0142
+nad                  -0.0152
+
+=====================================
+kinase, t = 2017
+=====================================
+fto                  -0.0017
+framework            -0.0054
+tetrameric           -0.0060
+phosphate            -0.0087
+discussed            -0.0089
+maximally            -0.0098
+phosphoglycerate     -0.0106
+dibutyryl            -0.0134
+calvin               -0.0135
+kinase               -0.0141
+
+=====================================
+kinase, t = 2018
+=====================================
+fto                  -0.0002
+tetrameric           -0.0034
+framework            -0.0039
+discussed            -0.0074
+maximally            -0.0076
+phosphate            -0.0084
+phosphoglycerate     -0.0087
+kinase               -0.0115
+calvin               -0.0118
+dibutyryl            -0.0120
