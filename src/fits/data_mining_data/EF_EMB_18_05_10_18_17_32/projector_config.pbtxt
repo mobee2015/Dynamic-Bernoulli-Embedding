@@ -1,0 +1,8 @@
+embeddings {
+  tensor_name: "model/embeddings/alpha"
+  metadata_path: "../vocab.tsv"
+}
+embeddings {
+  tensor_name: "model/embeddings/rho"
+  metadata_path: "../vocab.tsv"
+}
